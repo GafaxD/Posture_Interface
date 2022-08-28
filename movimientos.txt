@@ -1,0 +1,1366 @@
+Bitacora de movimientos
+05:04:20 p. m. martes, 26 de abril de 2022
+===================================== 
+
+05:04:33 p. m.
+Distancia a la izquierda: 0 Distancia a la derecha: 0 Distancia de enfrente: 0
+05:04:34 p. m.
+Distancia a la izquierda: 0 Distancia a la derecha: 0 Distancia de enfrente: 0
+05:04:35 p. m.
+Distancia a la izquierda: 83 Distancia a la derecha: 91 Distancia de enfrente: 18
+05:04:36 p. m.
+Distancia a la izquierda: 82 Distancia a la derecha: 1186 Distancia de enfrente: 18
+05:04:37 p. m.
+Distancia a la izquierda: 82 Distancia a la derecha: 1186 Distancia de enfrente: 18
+05:04:38 p. m.
+Distancia a la izquierda: 83 Distancia a la derecha: 1187 Distancia de enfrente: 17
+05:04:39 p. m.
+Distancia a la izquierda: 83 Distancia a la derecha: 1186 Distancia de enfrente: 17
+05:04:40 p. m.
+Distancia a la izquierda: 83 Distancia a la derecha: 88 Distancia de enfrente: 18
+05:04:41 p. m.
+Distancia a la izquierda: 83 Distancia a la derecha: 88 Distancia de enfrente: 18
+05:04:42 p. m.
+Distancia a la izquierda: 83 Distancia a la derecha: 1187 Distancia de enfrente: 18
+05:04:43 p. m.
+Distancia a la izquierda: 48 Distancia a la derecha: 11 Distancia de enfrente: 3
+05:04:44 p. m.
+Distancia a la izquierda: 23 Distancia a la derecha: 7 Distancia de enfrente: 2
+05:04:45 p. m.
+Distancia a la izquierda: 23 Distancia a la derecha: 7 Distancia de enfrente: 2
+05:04:46 p. m.
+Distancia a la izquierda: 23 Distancia a la derecha: 7 Distancia de enfrente: 2
+05:04:47 p. m.
+Distancia a la izquierda: 23 Distancia a la derecha: 7 Distancia de enfrente: 2
+05:04:48 p. m.
+Distancia a la izquierda: 23 Distancia a la derecha: 8 Distancia de enfrente: 2
+05:04:49 p. m.
+Distancia a la izquierda: 23 Distancia a la derecha: 7 Distancia de enfrente: 2
+05:04:50 p. m.
+Distancia a la izquierda: 24 Distancia a la derecha: 7 Distancia de enfrente: 2
+05:04:51 p. m.
+Distancia a la izquierda: 23 Distancia a la derecha: 7 Distancia de enfrente: 2
+05:04:52 p. m.
+Distancia a la izquierda: 23 Distancia a la derecha: 7 Distancia de enfrente: 2
+05:04:53 p. m.
+Distancia a la izquierda: 23 Distancia a la derecha: 7 Distancia de enfrente: 2
+05:04:54 p. m.
+Distancia a la izquierda: 23 Distancia a la derecha: 7 Distancia de enfrente: 2
+05:04:55 p. m.
+Distancia a la izquierda: 24 Distancia a la derecha: 7 Distancia de enfrente: 2
+05:04:56 p. m.
+Distancia a la izquierda: 23 Distancia a la derecha: 7 Distancia de enfrente: 2
+05:04:57 p. m.
+Distancia a la izquierda: 23 Distancia a la derecha: 7 Distancia de enfrente: 2
+05:04:58 p. m.
+Distancia a la izquierda: 23 Distancia a la derecha: 7 Distancia de enfrente: 2
+05:04:59 p. m.
+Distancia a la izquierda: 23 Distancia a la derecha: 7 Distancia de enfrente: 2
+05:05:00 p. m.
+Distancia a la izquierda: 23 Distancia a la derecha: 7 Distancia de enfrente: 2
+05:05:01 p. m.
+Distancia a la izquierda: 23 Distancia a la derecha: 7 Distancia de enfrente: 2
+05:05:02 p. m.
+Distancia a la izquierda: 23 Distancia a la derecha: 7 Distancia de enfrente: 2
+05:05:03 p. m.
+Distancia a la izquierda: 23 Distancia a la derecha: 7 Distancia de enfrente: 2
+05:05:04 p. m.
+Distancia a la izquierda: 23 Distancia a la derecha: 7 Distancia de enfrente: 2
+05:05:05 p. m.
+Distancia a la izquierda: 23 Distancia a la derecha: 7 Distancia de enfrente: 2
+05:05:06 p. m.
+Distancia a la izquierda: 23 Distancia a la derecha: 7 Distancia de enfrente: 2
+05:05:07 p. m.
+Distancia a la izquierda: 23 Distancia a la derecha: 7 Distancia de enfrente: 2
+05:05:08 p. m.
+Distancia a la izquierda: 23 Distancia a la derecha: 7 Distancia de enfrente: 2
+05:05:09 p. m.
+Distancia a la izquierda: 23 Distancia a la derecha: 7 Distancia de enfrente: 2
+05:05:10 p. m.
+Distancia a la izquierda: 23 Distancia a la derecha: 7 Distancia de enfrente: 2
+05:05:11 p. m.
+Distancia a la izquierda: 23 Distancia a la derecha: 7 Distancia de enfrente: 2
+05:05:12 p. m.
+Distancia a la izquierda: 23 Distancia a la derecha: 7 Distancia de enfrente: 2
+05:05:13 p. m.
+Distancia a la izquierda: 23 Distancia a la derecha: 7 Distancia de enfrente: 2
+05:05:14 p. m.
+Distancia a la izquierda: 23 Distancia a la derecha: 7 Distancia de enfrente: 2
+05:05:15 p. m.
+Distancia a la izquierda: 23 Distancia a la derecha: 7 Distancia de enfrente: 2
+05:05:16 p. m.
+Distancia a la izquierda: 23 Distancia a la derecha: 7 Distancia de enfrente: 2
+05:05:17 p. m.
+Distancia a la izquierda: 23 Distancia a la derecha: 7 Distancia de enfrente: 2
+05:05:18 p. m.
+Distancia a la izquierda: 23 Distancia a la derecha: 7 Distancia de enfrente: 2
+05:05:19 p. m.
+Distancia a la izquierda: 23 Distancia a la derecha: 7 Distancia de enfrente: 2
+05:05:20 p. m.
+Distancia a la izquierda: 23 Distancia a la derecha: 7 Distancia de enfrente: 2
+05:05:21 p. m.
+Distancia a la izquierda: 23 Distancia a la derecha: 7 Distancia de enfrente: 2
+05:05:22 p. m.
+Distancia a la izquierda: 23 Distancia a la derecha: 7 Distancia de enfrente: 2
+05:05:23 p. m.
+Distancia a la izquierda: 23 Distancia a la derecha: 7 Distancia de enfrente: 2
+05:05:24 p. m.
+Distancia a la izquierda: 23 Distancia a la derecha: 7 Distancia de enfrente: 2
+05:05:25 p. m.
+Distancia a la izquierda: 23 Distancia a la derecha: 7 Distancia de enfrente: 2
+05:05:26 p. m.
+Distancia a la izquierda: 23 Distancia a la derecha: 7 Distancia de enfrente: 2
+05:05:27 p. m.
+Distancia a la izquierda: 23 Distancia a la derecha: 7 Distancia de enfrente: 2
+05:05:28 p. m.
+Distancia a la izquierda: 23 Distancia a la derecha: 7 Distancia de enfrente: 2
+05:05:29 p. m.
+Distancia a la izquierda: 23 Distancia a la derecha: 7 Distancia de enfrente: 2
+05:05:30 p. m.
+Distancia a la izquierda: 23 Distancia a la derecha: 7 Distancia de enfrente: 2
+05:05:31 p. m.
+Distancia a la izquierda: 23 Distancia a la derecha: 7 Distancia de enfrente: 2
+05:05:32 p. m.
+Distancia a la izquierda: 23 Distancia a la derecha: 7 Distancia de enfrente: 2
+05:05:33 p. m.
+Distancia a la izquierda: 23 Distancia a la derecha: 7 Distancia de enfrente: 2
+05:05:34 p. m.
+Distancia a la izquierda: 24 Distancia a la derecha: 7 Distancia de enfrente: 2
+05:05:35 p. m.
+Distancia a la izquierda: 23 Distancia a la derecha: 7 Distancia de enfrente: 2
+05:05:36 p. m.
+Distancia a la izquierda: 23 Distancia a la derecha: 7 Distancia de enfrente: 2
+05:05:37 p. m.
+Distancia a la izquierda: 23 Distancia a la derecha: 7 Distancia de enfrente: 2
+05:05:38 p. m.
+Distancia a la izquierda: 23 Distancia a la derecha: 7 Distancia de enfrente: 2
+05:05:39 p. m.
+Distancia a la izquierda: 23 Distancia a la derecha: 7 Distancia de enfrente: 2
+05:05:40 p. m.
+Distancia a la izquierda: 23 Distancia a la derecha: 7 Distancia de enfrente: 2
+05:05:41 p. m.
+Distancia a la izquierda: 23 Distancia a la derecha: 7 Distancia de enfrente: 2
+05:05:42 p. m.
+Distancia a la izquierda: 23 Distancia a la derecha: 7 Distancia de enfrente: 2
+05:05:43 p. m.
+Distancia a la izquierda: 23 Distancia a la derecha: 7 Distancia de enfrente: 2
+05:05:44 p. m.
+Distancia a la izquierda: 23 Distancia a la derecha: 7 Distancia de enfrente: 2
+05:05:45 p. m.
+Distancia a la izquierda: 23 Distancia a la derecha: 7 Distancia de enfrente: 2
+05:05:46 p. m.
+Distancia a la izquierda: 23 Distancia a la derecha: 7 Distancia de enfrente: 2
+05:05:47 p. m.
+Distancia a la izquierda: 23 Distancia a la derecha: 7 Distancia de enfrente: 2
+05:05:48 p. m.
+Distancia a la izquierda: 23 Distancia a la derecha: 7 Distancia de enfrente: 2
+05:05:49 p. m.
+Distancia a la izquierda: 23 Distancia a la derecha: 7 Distancia de enfrente: 2
+05:05:50 p. m.
+Distancia a la izquierda: 23 Distancia a la derecha: 7 Distancia de enfrente: 2
+05:05:51 p. m.
+Distancia a la izquierda: 23 Distancia a la derecha: 7 Distancia de enfrente: 2
+05:05:52 p. m.
+Distancia a la izquierda: 23 Distancia a la derecha: 7 Distancia de enfrente: 2
+05:05:53 p. m.
+Distancia a la izquierda: 23 Distancia a la derecha: 7 Distancia de enfrente: 2
+05:05:54 p. m.
+Distancia a la izquierda: 23 Distancia a la derecha: 7 Distancia de enfrente: 2
+05:05:55 p. m.
+Distancia a la izquierda: 23 Distancia a la derecha: 7 Distancia de enfrente: 2
+05:05:56 p. m.
+Distancia a la izquierda: 23 Distancia a la derecha: 7 Distancia de enfrente: 2
+05:05:57 p. m.
+Distancia a la izquierda: 23 Distancia a la derecha: 7 Distancia de enfrente: 2
+05:05:58 p. m.
+Distancia a la izquierda: 23 Distancia a la derecha: 7 Distancia de enfrente: 2
+05:05:59 p. m.
+Distancia a la izquierda: 25 Distancia a la derecha: 7 Distancia de enfrente: 2
+05:06:00 p. m.
+Distancia a la izquierda: 23 Distancia a la derecha: 7 Distancia de enfrente: 2
+05:06:01 p. m.
+Distancia a la izquierda: 23 Distancia a la derecha: 7 Distancia de enfrente: 2
+05:06:02 p. m.
+Distancia a la izquierda: 23 Distancia a la derecha: 7 Distancia de enfrente: 2
+05:06:03 p. m.
+Distancia a la izquierda: 23 Distancia a la derecha: 7 Distancia de enfrente: 2
+05:06:04 p. m.
+Distancia a la izquierda: 23 Distancia a la derecha: 7 Distancia de enfrente: 2
+05:06:05 p. m.
+Distancia a la izquierda: 23 Distancia a la derecha: 7 Distancia de enfrente: 2
+05:06:06 p. m.
+Distancia a la izquierda: 25 Distancia a la derecha: 7 Distancia de enfrente: 2
+05:06:07 p. m.
+Distancia a la izquierda: 23 Distancia a la derecha: 7 Distancia de enfrente: 2
+05:06:08 p. m.
+Distancia a la izquierda: 23 Distancia a la derecha: 7 Distancia de enfrente: 2
+05:06:09 p. m.
+Distancia a la izquierda: 23 Distancia a la derecha: 7 Distancia de enfrente: 2
+05:06:10 p. m.
+Distancia a la izquierda: 23 Distancia a la derecha: 7 Distancia de enfrente: 2
+05:06:11 p. m.
+Distancia a la izquierda: 23 Distancia a la derecha: 7 Distancia de enfrente: 2
+05:06:12 p. m.
+Distancia a la izquierda: 23 Distancia a la derecha: 7 Distancia de enfrente: 2
+05:06:13 p. m.
+Distancia a la izquierda: 23 Distancia a la derecha: 5 Distancia de enfrente: 2
+05:06:14 p. m.
+Distancia a la izquierda: 24 Distancia a la derecha: 4 Distancia de enfrente: 2
+05:06:15 p. m.
+Distancia a la izquierda: 23 Distancia a la derecha: 4 Distancia de enfrente: 2
+05:06:16 p. m.
+Distancia a la izquierda: 23 Distancia a la derecha: 4 Distancia de enfrente: 2
+05:06:17 p. m.
+Distancia a la izquierda: 23 Distancia a la derecha: 4 Distancia de enfrente: 2
+05:06:18 p. m.
+Distancia a la izquierda: 23 Distancia a la derecha: 4 Distancia de enfrente: 2
+05:06:19 p. m.
+Distancia a la izquierda: 23 Distancia a la derecha: 4 Distancia de enfrente: 2
+05:06:20 p. m.
+Distancia a la izquierda: 23 Distancia a la derecha: 4 Distancia de enfrente: 2
+05:06:21 p. m.
+Distancia a la izquierda: 23 Distancia a la derecha: 4 Distancia de enfrente: 2
+05:06:22 p. m.
+Distancia a la izquierda: 23 Distancia a la derecha: 4 Distancia de enfrente: 2
+05:06:23 p. m.
+Distancia a la izquierda: 23 Distancia a la derecha: 4 Distancia de enfrente: 2
+05:06:24 p. m.
+Distancia a la izquierda: 23 Distancia a la derecha: 4 Distancia de enfrente: 2
+05:06:25 p. m.
+Distancia a la izquierda: 23 Distancia a la derecha: 4 Distancia de enfrente: 2
+05:06:26 p. m.
+Distancia a la izquierda: 24 Distancia a la derecha: 4 Distancia de enfrente: 2
+05:06:27 p. m.
+Distancia a la izquierda: 25 Distancia a la derecha: 4 Distancia de enfrente: 2
+05:06:28 p. m.
+Distancia a la izquierda: 23 Distancia a la derecha: 4 Distancia de enfrente: 2
+05:06:29 p. m.
+Distancia a la izquierda: 24 Distancia a la derecha: 4 Distancia de enfrente: 2
+05:06:30 p. m.
+Distancia a la izquierda: 23 Distancia a la derecha: 4 Distancia de enfrente: 2
+05:06:31 p. m.
+Distancia a la izquierda: 23 Distancia a la derecha: 4 Distancia de enfrente: 2
+05:06:32 p. m.
+Distancia a la izquierda: 23 Distancia a la derecha: 4 Distancia de enfrente: 2
+05:06:33 p. m.
+Distancia a la izquierda: 23 Distancia a la derecha: 4 Distancia de enfrente: 2
+05:06:34 p. m.
+Distancia a la izquierda: 23 Distancia a la derecha: 4 Distancia de enfrente: 2
+05:06:35 p. m.
+Distancia a la izquierda: 23 Distancia a la derecha: 4 Distancia de enfrente: 2
+05:06:36 p. m.
+Distancia a la izquierda: 23 Distancia a la derecha: 4 Distancia de enfrente: 2
+05:06:37 p. m.
+Distancia a la izquierda: 23 Distancia a la derecha: 4 Distancia de enfrente: 2
+Bitacora de movimientos
+05:08:22 p. m. martes, 26 de abril de 2022
+===================================== 
+
+05:08:27 p. m.
+Distancia a la izquierda: 0 Distancia a la derecha: 0 Distancia de enfrente: 0
+05:08:28 p. m.
+Distancia a la izquierda: 0 Distancia a la derecha: 0 Distancia de enfrente: 0
+05:08:29 p. m.
+Distancia a la izquierda: 23 Distancia a la derecha: 4 Distancia de enfrente: 2
+05:08:30 p. m.
+Distancia a la izquierda: 23 Distancia a la derecha: 4 Distancia de enfrente: 2
+05:08:31 p. m.
+Distancia a la izquierda: 23 Distancia a la derecha: 4 Distancia de enfrente: 2
+05:08:32 p. m.
+Distancia a la izquierda: 23 Distancia a la derecha: 4 Distancia de enfrente: 2
+05:08:33 p. m.
+Distancia a la izquierda: 23 Distancia a la derecha: 4 Distancia de enfrente: 2
+05:08:34 p. m.
+Distancia a la izquierda: 23 Distancia a la derecha: 4 Distancia de enfrente: 2
+05:08:35 p. m.
+Distancia a la izquierda: 23 Distancia a la derecha: 4 Distancia de enfrente: 2
+05:08:36 p. m.
+Distancia a la izquierda: 23 Distancia a la derecha: 4 Distancia de enfrente: 2
+05:08:37 p. m.
+Distancia a la izquierda: 23 Distancia a la derecha: 4 Distancia de enfrente: 2
+05:08:38 p. m.
+Distancia a la izquierda: 23 Distancia a la derecha: 4 Distancia de enfrente: 2
+05:08:39 p. m.
+Distancia a la izquierda: 23 Distancia a la derecha: 4 Distancia de enfrente: 2
+05:08:40 p. m.
+Distancia a la izquierda: 23 Distancia a la derecha: 4 Distancia de enfrente: 2
+05:08:41 p. m.
+Distancia a la izquierda: 23 Distancia a la derecha: 4 Distancia de enfrente: 2
+05:08:42 p. m.
+Distancia a la izquierda: 24 Distancia a la derecha: 4 Distancia de enfrente: 2
+05:08:43 p. m.
+Distancia a la izquierda: 23 Distancia a la derecha: 4 Distancia de enfrente: 2
+05:08:44 p. m.
+Distancia a la izquierda: 23 Distancia a la derecha: 4 Distancia de enfrente: 2
+05:08:45 p. m.
+Distancia a la izquierda: 23 Distancia a la derecha: 4 Distancia de enfrente: 2
+05:08:46 p. m.
+Distancia a la izquierda: 23 Distancia a la derecha: 4 Distancia de enfrente: 2
+05:08:47 p. m.
+Distancia a la izquierda: 23 Distancia a la derecha: 4 Distancia de enfrente: 2
+05:08:48 p. m.
+Distancia a la izquierda: 23 Distancia a la derecha: 4 Distancia de enfrente: 2
+05:08:49 p. m.
+Distancia a la izquierda: 23 Distancia a la derecha: 4 Distancia de enfrente: 2
+05:08:50 p. m.
+Distancia a la izquierda: 23 Distancia a la derecha: 4 Distancia de enfrente: 2
+05:08:51 p. m.
+Distancia a la izquierda: 23 Distancia a la derecha: 4 Distancia de enfrente: 2
+05:08:52 p. m.
+Distancia a la izquierda: 23 Distancia a la derecha: 4 Distancia de enfrente: 2
+05:08:53 p. m.
+Distancia a la izquierda: 23 Distancia a la derecha: 4 Distancia de enfrente: 2
+05:08:54 p. m.
+Distancia a la izquierda: 23 Distancia a la derecha: 4 Distancia de enfrente: 2
+05:08:55 p. m.
+Distancia a la izquierda: 23 Distancia a la derecha: 4 Distancia de enfrente: 2
+05:08:56 p. m.
+Distancia a la izquierda: 23 Distancia a la derecha: 4 Distancia de enfrente: 2
+05:08:57 p. m.
+Distancia a la izquierda: 23 Distancia a la derecha: 4 Distancia de enfrente: 2
+05:08:58 p. m.
+Distancia a la izquierda: 23 Distancia a la derecha: 4 Distancia de enfrente: 2
+05:08:59 p. m.
+Distancia a la izquierda: 23 Distancia a la derecha: 4 Distancia de enfrente: 2
+05:09:00 p. m.
+Distancia a la izquierda: 23 Distancia a la derecha: 4 Distancia de enfrente: 2
+05:09:01 p. m.
+Distancia a la izquierda: 23 Distancia a la derecha: 4 Distancia de enfrente: 2
+05:09:02 p. m.
+Distancia a la izquierda: 23 Distancia a la derecha: 4 Distancia de enfrente: 2
+05:09:03 p. m.
+Distancia a la izquierda: 23 Distancia a la derecha: 4 Distancia de enfrente: 2
+05:09:04 p. m.
+Distancia a la izquierda: 23 Distancia a la derecha: 4 Distancia de enfrente: 2
+05:09:05 p. m.
+Distancia a la izquierda: 23 Distancia a la derecha: 4 Distancia de enfrente: 2
+05:09:06 p. m.
+Distancia a la izquierda: 23 Distancia a la derecha: 4 Distancia de enfrente: 2
+05:09:07 p. m.
+Distancia a la izquierda: 23 Distancia a la derecha: 4 Distancia de enfrente: 2
+05:09:08 p. m.
+Distancia a la izquierda: 23 Distancia a la derecha: 4 Distancia de enfrente: 2
+05:09:09 p. m.
+Distancia a la izquierda: 23 Distancia a la derecha: 4 Distancia de enfrente: 2
+05:09:10 p. m.
+Distancia a la izquierda: 23 Distancia a la derecha: 4 Distancia de enfrente: 2
+05:09:11 p. m.
+Distancia a la izquierda: 23 Distancia a la derecha: 4 Distancia de enfrente: 2
+05:09:12 p. m.
+Distancia a la izquierda: 23 Distancia a la derecha: 4 Distancia de enfrente: 2
+05:09:13 p. m.
+Distancia a la izquierda: 23 Distancia a la derecha: 4 Distancia de enfrente: 2
+05:09:14 p. m.
+Distancia a la izquierda: 23 Distancia a la derecha: 4 Distancia de enfrente: 2
+05:09:15 p. m.
+Distancia a la izquierda: 23 Distancia a la derecha: 4 Distancia de enfrente: 2
+05:09:16 p. m.
+Distancia a la izquierda: 23 Distancia a la derecha: 4 Distancia de enfrente: 2
+05:09:17 p. m.
+Distancia a la izquierda: 23 Distancia a la derecha: 4 Distancia de enfrente: 2
+05:09:18 p. m.
+Distancia a la izquierda: 23 Distancia a la derecha: 4 Distancia de enfrente: 2
+05:09:19 p. m.
+Distancia a la izquierda: 23 Distancia a la derecha: 4 Distancia de enfrente: 2
+05:09:21 p. m.
+Distancia a la izquierda: 23 Distancia a la derecha: 4 Distancia de enfrente: 2
+05:09:22 p. m.
+Distancia a la izquierda: 23 Distancia a la derecha: 4 Distancia de enfrente: 2
+05:09:23 p. m.
+Distancia a la izquierda: 23 Distancia a la derecha: 4 Distancia de enfrente: 2
+05:09:24 p. m.
+Distancia a la izquierda: 23 Distancia a la derecha: 4 Distancia de enfrente: 2
+05:09:25 p. m.
+Distancia a la izquierda: 23 Distancia a la derecha: 4 Distancia de enfrente: 2
+05:09:26 p. m.
+Distancia a la izquierda: 23 Distancia a la derecha: 4 Distancia de enfrente: 2
+05:09:27 p. m.
+Distancia a la izquierda: 23 Distancia a la derecha: 4 Distancia de enfrente: 2
+05:09:28 p. m.
+Distancia a la izquierda: 23 Distancia a la derecha: 4 Distancia de enfrente: 2
+05:09:29 p. m.
+Distancia a la izquierda: 23 Distancia a la derecha: 4 Distancia de enfrente: 2
+05:09:30 p. m.
+Distancia a la izquierda: 23 Distancia a la derecha: 4 Distancia de enfrente: 2
+05:09:31 p. m.
+Distancia a la izquierda: 23 Distancia a la derecha: 4 Distancia de enfrente: 2
+05:09:32 p. m.
+Distancia a la izquierda: 23 Distancia a la derecha: 4 Distancia de enfrente: 2
+05:09:33 p. m.
+Distancia a la izquierda: 23 Distancia a la derecha: 4 Distancia de enfrente: 2
+05:09:34 p. m.
+Distancia a la izquierda: 23 Distancia a la derecha: 4 Distancia de enfrente: 2
+05:09:35 p. m.
+Distancia a la izquierda: 66 Distancia a la derecha: 12 Distancia de enfrente: 12
+05:09:36 p. m.
+Distancia a la izquierda: 64 Distancia a la derecha: 12 Distancia de enfrente: 12
+05:09:37 p. m.
+Distancia a la izquierda: 65 Distancia a la derecha: 11 Distancia de enfrente: 12
+05:09:38 p. m.
+Distancia a la izquierda: 64 Distancia a la derecha: 12 Distancia de enfrente: 12
+05:09:39 p. m.
+Distancia a la izquierda: 66 Distancia a la derecha: 11 Distancia de enfrente: 12
+05:09:40 p. m.
+Distancia a la izquierda: 65 Distancia a la derecha: 11 Distancia de enfrente: 12
+05:09:41 p. m.
+Distancia a la izquierda: 65 Distancia a la derecha: 11 Distancia de enfrente: 12
+05:09:42 p. m.
+Distancia a la izquierda: 65 Distancia a la derecha: 11 Distancia de enfrente: 12
+05:09:43 p. m.
+Distancia a la izquierda: 65 Distancia a la derecha: 11 Distancia de enfrente: 12
+05:09:44 p. m.
+Distancia a la izquierda: 66 Distancia a la derecha: 11 Distancia de enfrente: 12
+05:09:45 p. m.
+Distancia a la izquierda: 66 Distancia a la derecha: 11 Distancia de enfrente: 12
+05:09:46 p. m.
+Distancia a la izquierda: 65 Distancia a la derecha: 11 Distancia de enfrente: 12
+05:09:47 p. m.
+Distancia a la izquierda: 66 Distancia a la derecha: 11 Distancia de enfrente: 12
+05:09:48 p. m.
+Distancia a la izquierda: 65 Distancia a la derecha: 11 Distancia de enfrente: 12
+05:09:49 p. m.
+Distancia a la izquierda: 66 Distancia a la derecha: 11 Distancia de enfrente: 12
+05:09:50 p. m.
+Distancia a la izquierda: 66 Distancia a la derecha: 11 Distancia de enfrente: 12
+05:09:51 p. m.
+Distancia a la izquierda: 65 Distancia a la derecha: 11 Distancia de enfrente: 12
+05:09:52 p. m.
+Distancia a la izquierda: 65 Distancia a la derecha: 11 Distancia de enfrente: 12
+05:09:53 p. m.
+Distancia a la izquierda: 65 Distancia a la derecha: 11 Distancia de enfrente: 12
+05:09:54 p. m.
+Distancia a la izquierda: 66 Distancia a la derecha: 11 Distancia de enfrente: 12
+05:09:55 p. m.
+Distancia a la izquierda: 65 Distancia a la derecha: 11 Distancia de enfrente: 12
+05:09:56 p. m.
+Distancia a la izquierda: 66 Distancia a la derecha: 11 Distancia de enfrente: 12
+05:09:57 p. m.
+Distancia a la izquierda: 65 Distancia a la derecha: 11 Distancia de enfrente: 12
+05:09:58 p. m.
+Distancia a la izquierda: 66 Distancia a la derecha: 11 Distancia de enfrente: 12
+05:09:59 p. m.
+Distancia a la izquierda: 66 Distancia a la derecha: 11 Distancia de enfrente: 12
+05:10:00 p. m.
+Distancia a la izquierda: 65 Distancia a la derecha: 11 Distancia de enfrente: 12
+05:10:01 p. m.
+Distancia a la izquierda: 65 Distancia a la derecha: 11 Distancia de enfrente: 12
+05:10:02 p. m.
+Distancia a la izquierda: 65 Distancia a la derecha: 11 Distancia de enfrente: 12
+05:10:03 p. m.
+Distancia a la izquierda: 66 Distancia a la derecha: 11 Distancia de enfrente: 12
+05:10:04 p. m.
+Distancia a la izquierda: 66 Distancia a la derecha: 11 Distancia de enfrente: 12
+05:10:05 p. m.
+Distancia a la izquierda: 66 Distancia a la derecha: 11 Distancia de enfrente: 12
+05:10:06 p. m.
+Distancia a la izquierda: 65 Distancia a la derecha: 11 Distancia de enfrente: 12
+05:10:07 p. m.
+Distancia a la izquierda: 65 Distancia a la derecha: 11 Distancia de enfrente: 12
+05:10:08 p. m.
+Distancia a la izquierda: 65 Distancia a la derecha: 11 Distancia de enfrente: 12
+05:10:09 p. m.
+Distancia a la izquierda: 65 Distancia a la derecha: 11 Distancia de enfrente: 12
+05:10:10 p. m.
+Distancia a la izquierda: 66 Distancia a la derecha: 11 Distancia de enfrente: 12
+05:10:11 p. m.
+Distancia a la izquierda: 65 Distancia a la derecha: 11 Distancia de enfrente: 12
+05:10:12 p. m.
+Distancia a la izquierda: 65 Distancia a la derecha: 11 Distancia de enfrente: 12
+05:10:13 p. m.
+Distancia a la izquierda: 64 Distancia a la derecha: 11 Distancia de enfrente: 12
+05:10:14 p. m.
+Distancia a la izquierda: 65 Distancia a la derecha: 11 Distancia de enfrente: 13
+05:10:15 p. m.
+Distancia a la izquierda: 1192 Distancia a la derecha: 11 Distancia de enfrente: 12
+05:10:16 p. m.
+Distancia a la izquierda: 66 Distancia a la derecha: 11 Distancia de enfrente: 12
+05:10:17 p. m.
+Distancia a la izquierda: 65 Distancia a la derecha: 11 Distancia de enfrente: 12
+05:10:18 p. m.
+Distancia a la izquierda: 65 Distancia a la derecha: 11 Distancia de enfrente: 12
+05:10:19 p. m.
+Distancia a la izquierda: 66 Distancia a la derecha: 11 Distancia de enfrente: 12
+05:10:20 p. m.
+Distancia a la izquierda: 65 Distancia a la derecha: 11 Distancia de enfrente: 12
+05:10:21 p. m.
+Distancia a la izquierda: 65 Distancia a la derecha: 11 Distancia de enfrente: 12
+05:10:22 p. m.
+Distancia a la izquierda: 64 Distancia a la derecha: 11 Distancia de enfrente: 12
+05:10:23 p. m.
+Distancia a la izquierda: 65 Distancia a la derecha: 11 Distancia de enfrente: 12
+05:10:24 p. m.
+Distancia a la izquierda: 65 Distancia a la derecha: 11 Distancia de enfrente: 12
+05:10:25 p. m.
+Distancia a la izquierda: 66 Distancia a la derecha: 11 Distancia de enfrente: 12
+05:10:26 p. m.
+Distancia a la izquierda: 65 Distancia a la derecha: 11 Distancia de enfrente: 13
+05:10:27 p. m.
+Distancia a la izquierda: 65 Distancia a la derecha: 11 Distancia de enfrente: 12
+05:10:28 p. m.
+Distancia a la izquierda: 66 Distancia a la derecha: 11 Distancia de enfrente: 12
+05:10:29 p. m.
+Distancia a la izquierda: 66 Distancia a la derecha: 11 Distancia de enfrente: 12
+05:10:30 p. m.
+Distancia a la izquierda: 65 Distancia a la derecha: 11 Distancia de enfrente: 12
+05:10:31 p. m.
+Distancia a la izquierda: 65 Distancia a la derecha: 11 Distancia de enfrente: 12
+05:10:32 p. m.
+Distancia a la izquierda: 66 Distancia a la derecha: 11 Distancia de enfrente: 12
+05:10:33 p. m.
+Distancia a la izquierda: 65 Distancia a la derecha: 11 Distancia de enfrente: 12
+05:10:34 p. m.
+Distancia a la izquierda: 65 Distancia a la derecha: 11 Distancia de enfrente: 12
+05:10:35 p. m.
+Distancia a la izquierda: 65 Distancia a la derecha: 11 Distancia de enfrente: 12
+05:10:36 p. m.
+Distancia a la izquierda: 64 Distancia a la derecha: 11 Distancia de enfrente: 13
+05:10:37 p. m.
+Distancia a la izquierda: 66 Distancia a la derecha: 11 Distancia de enfrente: 12
+05:10:38 p. m.
+Distancia a la izquierda: 66 Distancia a la derecha: 11 Distancia de enfrente: 12
+05:10:39 p. m.
+Distancia a la izquierda: 66 Distancia a la derecha: 11 Distancia de enfrente: 12
+05:10:40 p. m.
+Distancia a la izquierda: 65 Distancia a la derecha: 11 Distancia de enfrente: 12
+05:10:41 p. m.
+Distancia a la izquierda: 64 Distancia a la derecha: 11 Distancia de enfrente: 12
+05:10:42 p. m.
+Distancia a la izquierda: 64 Distancia a la derecha: 11 Distancia de enfrente: 12
+05:10:43 p. m.
+Distancia a la izquierda: 66 Distancia a la derecha: 11 Distancia de enfrente: 12
+05:10:44 p. m.
+Distancia a la izquierda: 65 Distancia a la derecha: 11 Distancia de enfrente: 12
+05:10:45 p. m.
+Distancia a la izquierda: 66 Distancia a la derecha: 11 Distancia de enfrente: 12
+05:10:46 p. m.
+Distancia a la izquierda: 66 Distancia a la derecha: 11 Distancia de enfrente: 12
+05:10:47 p. m.
+Distancia a la izquierda: 66 Distancia a la derecha: 11 Distancia de enfrente: 12
+05:10:48 p. m.
+Distancia a la izquierda: 65 Distancia a la derecha: 11 Distancia de enfrente: 12
+05:10:49 p. m.
+Distancia a la izquierda: 65 Distancia a la derecha: 11 Distancia de enfrente: 12
+05:10:50 p. m.
+Distancia a la izquierda: 65 Distancia a la derecha: 11 Distancia de enfrente: 12
+05:10:51 p. m.
+Distancia a la izquierda: 65 Distancia a la derecha: 11 Distancia de enfrente: 12
+05:10:52 p. m.
+Distancia a la izquierda: 65 Distancia a la derecha: 11 Distancia de enfrente: 12
+05:10:53 p. m.
+Distancia a la izquierda: 65 Distancia a la derecha: 11 Distancia de enfrente: 12
+05:10:54 p. m.
+Distancia a la izquierda: 66 Distancia a la derecha: 11 Distancia de enfrente: 12
+05:10:55 p. m.
+Distancia a la izquierda: 65 Distancia a la derecha: 11 Distancia de enfrente: 12
+05:10:56 p. m.
+Distancia a la izquierda: 65 Distancia a la derecha: 11 Distancia de enfrente: 12
+05:10:57 p. m.
+Distancia a la izquierda: 65 Distancia a la derecha: 11 Distancia de enfrente: 12
+05:10:58 p. m.
+Distancia a la izquierda: 65 Distancia a la derecha: 11 Distancia de enfrente: 12
+05:10:59 p. m.
+Distancia a la izquierda: 65 Distancia a la derecha: 11 Distancia de enfrente: 12
+05:11:00 p. m.
+Distancia a la izquierda: 65 Distancia a la derecha: 11 Distancia de enfrente: 12
+05:11:01 p. m.
+Distancia a la izquierda: 65 Distancia a la derecha: 11 Distancia de enfrente: 12
+05:11:02 p. m.
+Distancia a la izquierda: 65 Distancia a la derecha: 11 Distancia de enfrente: 12
+05:11:03 p. m.
+Distancia a la izquierda: 66 Distancia a la derecha: 11 Distancia de enfrente: 12
+05:11:04 p. m.
+Distancia a la izquierda: 64 Distancia a la derecha: 11 Distancia de enfrente: 12
+05:11:05 p. m.
+Distancia a la izquierda: 66 Distancia a la derecha: 11 Distancia de enfrente: 12
+05:11:06 p. m.
+Distancia a la izquierda: 65 Distancia a la derecha: 11 Distancia de enfrente: 12
+05:11:07 p. m.
+Distancia a la izquierda: 66 Distancia a la derecha: 11 Distancia de enfrente: 12
+05:11:08 p. m.
+Distancia a la izquierda: 66 Distancia a la derecha: 11 Distancia de enfrente: 12
+05:11:09 p. m.
+Distancia a la izquierda: 65 Distancia a la derecha: 11 Distancia de enfrente: 12
+05:11:10 p. m.
+Distancia a la izquierda: 65 Distancia a la derecha: 11 Distancia de enfrente: 12
+Bitacora de movimientos
+05:11:31 p. m. martes, 26 de abril de 2022
+===================================== 
+
+05:11:35 p. m.
+Distancia a la izquierda: 0 Distancia a la derecha: 0 Distancia de enfrente: 0
+05:11:36 p. m.
+Distancia a la izquierda: 0 Distancia a la derecha: 0 Distancia de enfrente: 0
+05:11:37 p. m.
+Distancia a la izquierda: 65 Distancia a la derecha: 11 Distancia de enfrente: 12
+05:11:38 p. m.
+Distancia a la izquierda: 66 Distancia a la derecha: 11 Distancia de enfrente: 12
+05:11:40 p. m.
+Distancia a la izquierda: 66 Distancia a la derecha: 11 Distancia de enfrente: 12
+05:11:41 p. m.
+Distancia a la izquierda: 64 Distancia a la derecha: 11 Distancia de enfrente: 12
+05:11:42 p. m.
+Distancia a la izquierda: 65 Distancia a la derecha: 11 Distancia de enfrente: 12
+05:11:43 p. m.
+Distancia a la izquierda: 61 Distancia a la derecha: 10 Distancia de enfrente: 9
+05:11:44 p. m.
+Distancia a la izquierda: 15 Distancia a la derecha: 7 Distancia de enfrente: 6
+05:11:45 p. m.
+Distancia a la izquierda: 1192 Distancia a la derecha: 3 Distancia de enfrente: 3
+05:11:46 p. m.
+Distancia a la izquierda: 50 Distancia a la derecha: 3 Distancia de enfrente: 3
+05:11:47 p. m.
+Distancia a la izquierda: 50 Distancia a la derecha: 3 Distancia de enfrente: 2
+05:11:48 p. m.
+Distancia a la izquierda: 51 Distancia a la derecha: 3 Distancia de enfrente: 3
+05:11:49 p. m.
+Distancia a la izquierda: 51 Distancia a la derecha: 3 Distancia de enfrente: 3
+05:11:50 p. m.
+Distancia a la izquierda: 51 Distancia a la derecha: 3 Distancia de enfrente: 2
+05:11:51 p. m.
+Distancia a la izquierda: 50 Distancia a la derecha: 3 Distancia de enfrente: 2
+05:11:52 p. m.
+Distancia a la izquierda: 51 Distancia a la derecha: 3 Distancia de enfrente: 3
+05:11:53 p. m.
+Distancia a la izquierda: 50 Distancia a la derecha: 3 Distancia de enfrente: 3
+05:11:54 p. m.
+Distancia a la izquierda: 51 Distancia a la derecha: 3 Distancia de enfrente: 3
+05:11:55 p. m.
+Distancia a la izquierda: 51 Distancia a la derecha: 3 Distancia de enfrente: 3
+05:11:56 p. m.
+Distancia a la izquierda: 51 Distancia a la derecha: 3 Distancia de enfrente: 3
+05:11:57 p. m.
+Distancia a la izquierda: 51 Distancia a la derecha: 3 Distancia de enfrente: 3
+05:11:58 p. m.
+Distancia a la izquierda: 50 Distancia a la derecha: 3 Distancia de enfrente: 3
+05:11:59 p. m.
+Distancia a la izquierda: 50 Distancia a la derecha: 3 Distancia de enfrente: 3
+05:12:00 p. m.
+Distancia a la izquierda: 50 Distancia a la derecha: 3 Distancia de enfrente: 3
+05:12:01 p. m.
+Distancia a la izquierda: 50 Distancia a la derecha: 3 Distancia de enfrente: 2
+05:12:02 p. m.
+Distancia a la izquierda: 51 Distancia a la derecha: 3 Distancia de enfrente: 3
+05:12:03 p. m.
+Distancia a la izquierda: 51 Distancia a la derecha: 3 Distancia de enfrente: 3
+05:12:04 p. m.
+Distancia a la izquierda: 51 Distancia a la derecha: 3 Distancia de enfrente: 2
+05:12:05 p. m.
+Distancia a la izquierda: 51 Distancia a la derecha: 3 Distancia de enfrente: 3
+05:12:06 p. m.
+Distancia a la izquierda: 51 Distancia a la derecha: 3 Distancia de enfrente: 3
+05:12:07 p. m.
+Distancia a la izquierda: 50 Distancia a la derecha: 3 Distancia de enfrente: 2
+05:12:08 p. m.
+Distancia a la izquierda: 51 Distancia a la derecha: 3 Distancia de enfrente: 3
+05:12:09 p. m.
+Distancia a la izquierda: 51 Distancia a la derecha: 3 Distancia de enfrente: 3
+05:12:10 p. m.
+Distancia a la izquierda: 50 Distancia a la derecha: 3 Distancia de enfrente: 3
+Bitacora de movimientos
+05:14:24 p. m. martes, 26 de abril de 2022
+===================================== 
+
+05:14:28 p. m.
+Distancia a la izquierda: 0 Distancia a la derecha: 0 Distancia de enfrente: 0
+05:14:29 p. m.
+Distancia a la izquierda: 0 Distancia a la derecha: 0 Distancia de enfrente: 0
+05:14:30 p. m.
+Distancia a la izquierda: 50 Distancia a la derecha: 3 Distancia de enfrente: 3
+05:14:31 p. m.
+Distancia a la izquierda: 50 Distancia a la derecha: 3 Distancia de enfrente: 3
+05:14:32 p. m.
+Distancia a la izquierda: 51 Distancia a la derecha: 3 Distancia de enfrente: 3
+05:14:33 p. m.
+Distancia a la izquierda: 50 Distancia a la derecha: 3 Distancia de enfrente: 2
+05:14:34 p. m.
+Distancia a la izquierda: 50 Distancia a la derecha: 3 Distancia de enfrente: 3
+05:14:35 p. m.
+Distancia a la izquierda: 50 Distancia a la derecha: 3 Distancia de enfrente: 3
+05:14:36 p. m.
+Distancia a la izquierda: 50 Distancia a la derecha: 3 Distancia de enfrente: 3
+05:14:37 p. m.
+Distancia a la izquierda: 51 Distancia a la derecha: 3 Distancia de enfrente: 3
+05:14:38 p. m.
+Distancia a la izquierda: 50 Distancia a la derecha: 3 Distancia de enfrente: 3
+05:14:39 p. m.
+Distancia a la izquierda: 50 Distancia a la derecha: 3 Distancia de enfrente: 3
+05:14:40 p. m.
+Distancia a la izquierda: 50 Distancia a la derecha: 3 Distancia de enfrente: 2
+05:14:41 p. m.
+Distancia a la izquierda: 51 Distancia a la derecha: 3 Distancia de enfrente: 3
+05:14:42 p. m.
+Distancia a la izquierda: 50 Distancia a la derecha: 3 Distancia de enfrente: 3
+05:14:43 p. m.
+Distancia a la izquierda: 50 Distancia a la derecha: 3 Distancia de enfrente: 3
+05:14:44 p. m.
+Distancia a la izquierda: 51 Distancia a la derecha: 3 Distancia de enfrente: 3
+05:14:45 p. m.
+Distancia a la izquierda: 50 Distancia a la derecha: 3 Distancia de enfrente: 3
+05:14:46 p. m.
+Distancia a la izquierda: 50 Distancia a la derecha: 3 Distancia de enfrente: 3
+05:14:47 p. m.
+Distancia a la izquierda: 51 Distancia a la derecha: 3 Distancia de enfrente: 2
+05:14:48 p. m.
+Distancia a la izquierda: 50 Distancia a la derecha: 3 Distancia de enfrente: 3
+05:14:49 p. m.
+Distancia a la izquierda: 50 Distancia a la derecha: 3 Distancia de enfrente: 3
+05:14:50 p. m.
+Distancia a la izquierda: 50 Distancia a la derecha: 3 Distancia de enfrente: 3
+05:14:51 p. m.
+Distancia a la izquierda: 50 Distancia a la derecha: 3 Distancia de enfrente: 3
+05:14:52 p. m.
+Distancia a la izquierda: 50 Distancia a la derecha: 3 Distancia de enfrente: 3
+05:14:53 p. m.
+Distancia a la izquierda: 50 Distancia a la derecha: 3 Distancia de enfrente: 3
+05:14:54 p. m.
+Distancia a la izquierda: 50 Distancia a la derecha: 3 Distancia de enfrente: 2
+05:14:55 p. m.
+Distancia a la izquierda: 51 Distancia a la derecha: 3 Distancia de enfrente: 3
+05:14:56 p. m.
+Distancia a la izquierda: 50 Distancia a la derecha: 3 Distancia de enfrente: 2
+05:14:57 p. m.
+Distancia a la izquierda: 50 Distancia a la derecha: 3 Distancia de enfrente: 3
+05:14:58 p. m.
+Distancia a la izquierda: 50 Distancia a la derecha: 3 Distancia de enfrente: 3
+05:15:00 p. m.
+Distancia a la izquierda: 50 Distancia a la derecha: 3 Distancia de enfrente: 3
+05:15:01 p. m.
+Distancia a la izquierda: 50 Distancia a la derecha: 3 Distancia de enfrente: 2
+05:15:02 p. m.
+Distancia a la izquierda: 50 Distancia a la derecha: 3 Distancia de enfrente: 3
+05:15:03 p. m.
+Distancia a la izquierda: 50 Distancia a la derecha: 3 Distancia de enfrente: 3
+05:15:04 p. m.
+Distancia a la izquierda: 50 Distancia a la derecha: 3 Distancia de enfrente: 3
+05:15:05 p. m.
+Distancia a la izquierda: 50 Distancia a la derecha: 3 Distancia de enfrente: 3
+05:15:06 p. m.
+Distancia a la izquierda: 50 Distancia a la derecha: 3 Distancia de enfrente: 2
+05:15:07 p. m.
+Distancia a la izquierda: 51 Distancia a la derecha: 3 Distancia de enfrente: 3
+05:15:08 p. m.
+Distancia a la izquierda: 50 Distancia a la derecha: 3 Distancia de enfrente: 3
+05:15:09 p. m.
+Distancia a la izquierda: 50 Distancia a la derecha: 3 Distancia de enfrente: 3
+05:15:10 p. m.
+Distancia a la izquierda: 50 Distancia a la derecha: 3 Distancia de enfrente: 3
+05:15:11 p. m.
+Distancia a la izquierda: 50 Distancia a la derecha: 3 Distancia de enfrente: 3
+05:15:12 p. m.
+Distancia a la izquierda: 50 Distancia a la derecha: 3 Distancia de enfrente: 3
+05:15:13 p. m.
+Distancia a la izquierda: 50 Distancia a la derecha: 3 Distancia de enfrente: 3
+05:15:14 p. m.
+Distancia a la izquierda: 50 Distancia a la derecha: 3 Distancia de enfrente: 3
+05:15:15 p. m.
+Distancia a la izquierda: 50 Distancia a la derecha: 3 Distancia de enfrente: 3
+05:15:16 p. m.
+Distancia a la izquierda: 50 Distancia a la derecha: 3 Distancia de enfrente: 3
+05:15:17 p. m.
+Distancia a la izquierda: 50 Distancia a la derecha: 3 Distancia de enfrente: 3
+05:15:18 p. m.
+Distancia a la izquierda: 50 Distancia a la derecha: 3 Distancia de enfrente: 2
+05:15:19 p. m.
+Distancia a la izquierda: 51 Distancia a la derecha: 3 Distancia de enfrente: 3
+05:15:20 p. m.
+Distancia a la izquierda: 51 Distancia a la derecha: 3 Distancia de enfrente: 3
+05:15:21 p. m.
+Distancia a la izquierda: 51 Distancia a la derecha: 3 Distancia de enfrente: 2
+05:15:22 p. m.
+Distancia a la izquierda: 51 Distancia a la derecha: 3 Distancia de enfrente: 3
+05:15:23 p. m.
+Distancia a la izquierda: 51 Distancia a la derecha: 3 Distancia de enfrente: 3
+05:15:24 p. m.
+Distancia a la izquierda: 50 Distancia a la derecha: 3 Distancia de enfrente: 3
+05:15:25 p. m.
+Distancia a la izquierda: 51 Distancia a la derecha: 3 Distancia de enfrente: 3
+05:15:26 p. m.
+Distancia a la izquierda: 51 Distancia a la derecha: 3 Distancia de enfrente: 3
+05:15:27 p. m.
+Distancia a la izquierda: 51 Distancia a la derecha: 3 Distancia de enfrente: 2
+05:15:28 p. m.
+Distancia a la izquierda: 51 Distancia a la derecha: 3 Distancia de enfrente: 3
+05:15:29 p. m.
+Distancia a la izquierda: 50 Distancia a la derecha: 3 Distancia de enfrente: 3
+05:15:30 p. m.
+Distancia a la izquierda: 50 Distancia a la derecha: 3 Distancia de enfrente: 2
+05:15:31 p. m.
+Distancia a la izquierda: 51 Distancia a la derecha: 3 Distancia de enfrente: 3
+05:15:32 p. m.
+Distancia a la izquierda: 51 Distancia a la derecha: 3 Distancia de enfrente: 3
+05:15:33 p. m.
+Distancia a la izquierda: 50 Distancia a la derecha: 3 Distancia de enfrente: 3
+05:15:34 p. m.
+Distancia a la izquierda: 50 Distancia a la derecha: 3 Distancia de enfrente: 2
+05:15:35 p. m.
+Distancia a la izquierda: 50 Distancia a la derecha: 3 Distancia de enfrente: 3
+05:15:36 p. m.
+Distancia a la izquierda: 51 Distancia a la derecha: 3 Distancia de enfrente: 3
+05:15:37 p. m.
+Distancia a la izquierda: 50 Distancia a la derecha: 3 Distancia de enfrente: 3
+05:15:38 p. m.
+Distancia a la izquierda: 50 Distancia a la derecha: 3 Distancia de enfrente: 3
+05:15:39 p. m.
+Distancia a la izquierda: 50 Distancia a la derecha: 3 Distancia de enfrente: 3
+05:15:40 p. m.
+Distancia a la izquierda: 50 Distancia a la derecha: 3 Distancia de enfrente: 3
+05:15:41 p. m.
+Distancia a la izquierda: 50 Distancia a la derecha: 3 Distancia de enfrente: 2
+05:15:42 p. m.
+Distancia a la izquierda: 50 Distancia a la derecha: 3 Distancia de enfrente: 3
+05:15:43 p. m.
+Distancia a la izquierda: 50 Distancia a la derecha: 3 Distancia de enfrente: 3
+05:15:44 p. m.
+Distancia a la izquierda: 50 Distancia a la derecha: 3 Distancia de enfrente: 3
+05:15:45 p. m.
+Distancia a la izquierda: 51 Distancia a la derecha: 3 Distancia de enfrente: 3
+05:15:46 p. m.
+Distancia a la izquierda: 51 Distancia a la derecha: 3 Distancia de enfrente: 3
+05:15:47 p. m.
+Distancia a la izquierda: 51 Distancia a la derecha: 3 Distancia de enfrente: 3
+05:15:48 p. m.
+Distancia a la izquierda: 50 Distancia a la derecha: 3 Distancia de enfrente: 3
+05:15:49 p. m.
+Distancia a la izquierda: 50 Distancia a la derecha: 3 Distancia de enfrente: 2
+05:15:50 p. m.
+Distancia a la izquierda: 50 Distancia a la derecha: 3 Distancia de enfrente: 2
+05:15:51 p. m.
+Distancia a la izquierda: 51 Distancia a la derecha: 3 Distancia de enfrente: 3
+05:15:52 p. m.
+Distancia a la izquierda: 50 Distancia a la derecha: 3 Distancia de enfrente: 3
+05:15:53 p. m.
+Distancia a la izquierda: 50 Distancia a la derecha: 3 Distancia de enfrente: 3
+05:15:54 p. m.
+Distancia a la izquierda: 50 Distancia a la derecha: 3 Distancia de enfrente: 3
+05:15:55 p. m.
+Distancia a la izquierda: 50 Distancia a la derecha: 3 Distancia de enfrente: 3
+05:15:56 p. m.
+Distancia a la izquierda: 50 Distancia a la derecha: 3 Distancia de enfrente: 3
+05:15:57 p. m.
+Distancia a la izquierda: 50 Distancia a la derecha: 3 Distancia de enfrente: 3
+05:15:58 p. m.
+Distancia a la izquierda: 50 Distancia a la derecha: 3 Distancia de enfrente: 2
+05:15:59 p. m.
+Distancia a la izquierda: 50 Distancia a la derecha: 3 Distancia de enfrente: 2
+05:16:00 p. m.
+Distancia a la izquierda: 51 Distancia a la derecha: 3 Distancia de enfrente: 3
+05:16:01 p. m.
+Distancia a la izquierda: 50 Distancia a la derecha: 3 Distancia de enfrente: 3
+05:16:02 p. m.
+Distancia a la izquierda: 50 Distancia a la derecha: 3 Distancia de enfrente: 3
+05:16:03 p. m.
+Distancia a la izquierda: 50 Distancia a la derecha: 3 Distancia de enfrente: 2
+05:16:04 p. m.
+Distancia a la izquierda: 51 Distancia a la derecha: 3 Distancia de enfrente: 3
+05:16:05 p. m.
+Distancia a la izquierda: 50 Distancia a la derecha: 3 Distancia de enfrente: 3
+05:16:06 p. m.
+Distancia a la izquierda: 50 Distancia a la derecha: 3 Distancia de enfrente: 3
+05:16:07 p. m.
+Distancia a la izquierda: 50 Distancia a la derecha: 3 Distancia de enfrente: 2
+05:16:08 p. m.
+Distancia a la izquierda: 52 Distancia a la derecha: 3 Distancia de enfrente: 2
+05:16:09 p. m.
+Distancia a la izquierda: 50 Distancia a la derecha: 3 Distancia de enfrente: 3
+05:16:10 p. m.
+Distancia a la izquierda: 50 Distancia a la derecha: 3 Distancia de enfrente: 3
+05:16:11 p. m.
+Distancia a la izquierda: 50 Distancia a la derecha: 3 Distancia de enfrente: 3
+05:16:12 p. m.
+Distancia a la izquierda: 51 Distancia a la derecha: 3 Distancia de enfrente: 3
+05:16:13 p. m.
+Distancia a la izquierda: 50 Distancia a la derecha: 3 Distancia de enfrente: 3
+05:16:14 p. m.
+Distancia a la izquierda: 51 Distancia a la derecha: 3 Distancia de enfrente: 3
+05:16:15 p. m.
+Distancia a la izquierda: 50 Distancia a la derecha: 3 Distancia de enfrente: 2
+05:16:16 p. m.
+Distancia a la izquierda: 50 Distancia a la derecha: 3 Distancia de enfrente: 3
+05:16:17 p. m.
+Distancia a la izquierda: 50 Distancia a la derecha: 3 Distancia de enfrente: 3
+05:16:18 p. m.
+Distancia a la izquierda: 51 Distancia a la derecha: 3 Distancia de enfrente: 3
+05:16:19 p. m.
+Distancia a la izquierda: 50 Distancia a la derecha: 3 Distancia de enfrente: 2
+05:16:20 p. m.
+Distancia a la izquierda: 50 Distancia a la derecha: 3 Distancia de enfrente: 3
+05:16:21 p. m.
+Distancia a la izquierda: 51 Distancia a la derecha: 3 Distancia de enfrente: 3
+05:16:22 p. m.
+Distancia a la izquierda: 51 Distancia a la derecha: 3 Distancia de enfrente: 3
+05:16:23 p. m.
+Distancia a la izquierda: 51 Distancia a la derecha: 3 Distancia de enfrente: 2
+05:16:24 p. m.
+Distancia a la izquierda: 50 Distancia a la derecha: 3 Distancia de enfrente: 3
+05:16:25 p. m.
+Distancia a la izquierda: 50 Distancia a la derecha: 3 Distancia de enfrente: 3
+05:16:26 p. m.
+Distancia a la izquierda: 50 Distancia a la derecha: 3 Distancia de enfrente: 3
+05:16:27 p. m.
+Distancia a la izquierda: 51 Distancia a la derecha: 3 Distancia de enfrente: 3
+05:16:28 p. m.
+Distancia a la izquierda: 51 Distancia a la derecha: 3 Distancia de enfrente: 3
+05:16:29 p. m.
+Distancia a la izquierda: 51 Distancia a la derecha: 3 Distancia de enfrente: 3
+05:16:30 p. m.
+Distancia a la izquierda: 51 Distancia a la derecha: 3 Distancia de enfrente: 3
+05:16:31 p. m.
+Distancia a la izquierda: 51 Distancia a la derecha: 3 Distancia de enfrente: 2
+05:16:32 p. m.
+Distancia a la izquierda: 51 Distancia a la derecha: 3 Distancia de enfrente: 2
+05:16:33 p. m.
+Distancia a la izquierda: 51 Distancia a la derecha: 3 Distancia de enfrente: 3
+05:16:34 p. m.
+Distancia a la izquierda: 51 Distancia a la derecha: 7 Distancia de enfrente: 2
+05:16:35 p. m.
+Distancia a la izquierda: 50 Distancia a la derecha: 6 Distancia de enfrente: 3
+05:16:36 p. m.
+Distancia a la izquierda: 51 Distancia a la derecha: 6 Distancia de enfrente: 3
+Bitacora de movimientos
+05:16:44 p. m. martes, 26 de abril de 2022
+===================================== 
+
+05:16:49 p. m.
+Distancia a la izquierda: 0 Distancia a la derecha: 0 Distancia de enfrente: 0
+05:16:50 p. m.
+Distancia a la izquierda: 0 Distancia a la derecha: 0 Distancia de enfrente: 0
+05:16:51 p. m.
+Distancia a la izquierda: 50 Distancia a la derecha: 53 Distancia de enfrente: 2
+05:16:52 p. m.
+Distancia a la izquierda: 50 Distancia a la derecha: 54 Distancia de enfrente: 3
+05:16:53 p. m.
+Distancia a la izquierda: 51 Distancia a la derecha: 61 Distancia de enfrente: 3
+05:16:54 p. m.
+Distancia a la izquierda: 51 Distancia a la derecha: 49 Distancia de enfrente: 3
+05:16:55 p. m.
+Distancia a la izquierda: 50 Distancia a la derecha: 49 Distancia de enfrente: 3
+05:16:56 p. m.
+Distancia a la izquierda: 52 Distancia a la derecha: 66 Distancia de enfrente: 3
+05:16:57 p. m.
+Distancia a la izquierda: 51 Distancia a la derecha: 64 Distancia de enfrente: 3
+05:16:58 p. m.
+Distancia a la izquierda: 50 Distancia a la derecha: 60 Distancia de enfrente: 2
+05:16:59 p. m.
+Distancia a la izquierda: 51 Distancia a la derecha: 48 Distancia de enfrente: 2
+05:17:00 p. m.
+Distancia a la izquierda: 51 Distancia a la derecha: 48 Distancia de enfrente: 3
+05:17:01 p. m.
+Distancia a la izquierda: 51 Distancia a la derecha: 48 Distancia de enfrente: 3
+05:17:02 p. m.
+Distancia a la izquierda: 50 Distancia a la derecha: 58 Distancia de enfrente: 3
+05:17:03 p. m.
+Distancia a la izquierda: 50 Distancia a la derecha: 36 Distancia de enfrente: 2
+05:17:04 p. m.
+Distancia a la izquierda: 51 Distancia a la derecha: 36 Distancia de enfrente: 3
+05:17:05 p. m.
+Distancia a la izquierda: 51 Distancia a la derecha: 37 Distancia de enfrente: 3
+05:17:06 p. m.
+Distancia a la izquierda: 51 Distancia a la derecha: 36 Distancia de enfrente: 3
+05:17:07 p. m.
+Distancia a la izquierda: 51 Distancia a la derecha: 37 Distancia de enfrente: 3
+05:17:08 p. m.
+Distancia a la izquierda: 50 Distancia a la derecha: 36 Distancia de enfrente: 3
+05:17:09 p. m.
+Distancia a la izquierda: 50 Distancia a la derecha: 37 Distancia de enfrente: 3
+05:17:10 p. m.
+Distancia a la izquierda: 50 Distancia a la derecha: 37 Distancia de enfrente: 2
+05:17:11 p. m.
+Distancia a la izquierda: 51 Distancia a la derecha: 35 Distancia de enfrente: 3
+05:17:12 p. m.
+Distancia a la izquierda: 51 Distancia a la derecha: 35 Distancia de enfrente: 3
+05:17:13 p. m.
+Distancia a la izquierda: 51 Distancia a la derecha: 35 Distancia de enfrente: 3
+05:17:14 p. m.
+Distancia a la izquierda: 51 Distancia a la derecha: 35 Distancia de enfrente: 2
+05:17:15 p. m.
+Distancia a la izquierda: 51 Distancia a la derecha: 35 Distancia de enfrente: 3
+05:17:16 p. m.
+Distancia a la izquierda: 50 Distancia a la derecha: 35 Distancia de enfrente: 3
+05:17:17 p. m.
+Distancia a la izquierda: 50 Distancia a la derecha: 36 Distancia de enfrente: 3
+05:17:18 p. m.
+Distancia a la izquierda: 50 Distancia a la derecha: 36 Distancia de enfrente: 3
+05:17:19 p. m.
+Distancia a la izquierda: 50 Distancia a la derecha: 35 Distancia de enfrente: 3
+05:17:20 p. m.
+Distancia a la izquierda: 50 Distancia a la derecha: 36 Distancia de enfrente: 3
+05:17:21 p. m.
+Distancia a la izquierda: 50 Distancia a la derecha: 36 Distancia de enfrente: 3
+05:17:22 p. m.
+Distancia a la izquierda: 50 Distancia a la derecha: 36 Distancia de enfrente: 3
+Bitacora de movimientos
+05:17:26 p. m. martes, 26 de abril de 2022
+===================================== 
+
+05:17:46 p. m.
+Distancia a la izquierda: 0 Distancia a la derecha: 0 Distancia de enfrente: 0
+05:17:47 p. m.
+Distancia a la izquierda: 0 Distancia a la derecha: 0 Distancia de enfrente: 0
+05:17:48 p. m.
+Distancia a la izquierda: 50 Distancia a la derecha: 37 Distancia de enfrente: 3
+05:17:49 p. m.
+Distancia a la izquierda: 50 Distancia a la derecha: 38 Distancia de enfrente: 3
+05:17:50 p. m.
+Distancia a la izquierda: 50 Distancia a la derecha: 37 Distancia de enfrente: 2
+05:17:51 p. m.
+Distancia a la izquierda: 50 Distancia a la derecha: 37 Distancia de enfrente: 3
+05:17:52 p. m.
+Distancia a la izquierda: 51 Distancia a la derecha: 39 Distancia de enfrente: 3
+05:17:53 p. m.
+Distancia a la izquierda: 50 Distancia a la derecha: 39 Distancia de enfrente: 2
+05:17:54 p. m.
+Distancia a la izquierda: 50 Distancia a la derecha: 39 Distancia de enfrente: 3
+05:17:55 p. m.
+Distancia a la izquierda: 51 Distancia a la derecha: 39 Distancia de enfrente: 2
+05:17:56 p. m.
+Distancia a la izquierda: 50 Distancia a la derecha: 37 Distancia de enfrente: 3
+05:17:57 p. m.
+Distancia a la izquierda: 51 Distancia a la derecha: 39 Distancia de enfrente: 2
+05:17:58 p. m.
+Distancia a la izquierda: 50 Distancia a la derecha: 39 Distancia de enfrente: 2
+05:17:59 p. m.
+Distancia a la izquierda: 50 Distancia a la derecha: 39 Distancia de enfrente: 3
+05:18:00 p. m.
+Distancia a la izquierda: 51 Distancia a la derecha: 39 Distancia de enfrente: 3
+05:18:01 p. m.
+Distancia a la izquierda: 50 Distancia a la derecha: 39 Distancia de enfrente: 2
+05:18:02 p. m.
+Distancia a la izquierda: 51 Distancia a la derecha: 37 Distancia de enfrente: 3
+05:18:03 p. m.
+Distancia a la izquierda: 50 Distancia a la derecha: 37 Distancia de enfrente: 3
+05:18:04 p. m.
+Distancia a la izquierda: 50 Distancia a la derecha: 38 Distancia de enfrente: 3
+05:18:05 p. m.
+Distancia a la izquierda: 51 Distancia a la derecha: 39 Distancia de enfrente: 3
+05:18:06 p. m.
+Distancia a la izquierda: 50 Distancia a la derecha: 39 Distancia de enfrente: 2
+05:18:07 p. m.
+Distancia a la izquierda: 50 Distancia a la derecha: 39 Distancia de enfrente: 3
+05:18:08 p. m.
+Distancia a la izquierda: 50 Distancia a la derecha: 39 Distancia de enfrente: 3
+05:18:09 p. m.
+Distancia a la izquierda: 50 Distancia a la derecha: 39 Distancia de enfrente: 3
+05:18:10 p. m.
+Distancia a la izquierda: 51 Distancia a la derecha: 38 Distancia de enfrente: 3
+05:18:11 p. m.
+Distancia a la izquierda: 50 Distancia a la derecha: 39 Distancia de enfrente: 3
+05:18:12 p. m.
+Distancia a la izquierda: 50 Distancia a la derecha: 39 Distancia de enfrente: 3
+05:18:13 p. m.
+Distancia a la izquierda: 50 Distancia a la derecha: 39 Distancia de enfrente: 3
+05:18:14 p. m.
+Distancia a la izquierda: 50 Distancia a la derecha: 39 Distancia de enfrente: 3
+05:18:15 p. m.
+Distancia a la izquierda: 51 Distancia a la derecha: 39 Distancia de enfrente: 2
+05:18:16 p. m.
+Distancia a la izquierda: 50 Distancia a la derecha: 39 Distancia de enfrente: 2
+05:18:17 p. m.
+Distancia a la izquierda: 51 Distancia a la derecha: 39 Distancia de enfrente: 3
+05:18:18 p. m.
+Distancia a la izquierda: 51 Distancia a la derecha: 39 Distancia de enfrente: 3
+05:18:19 p. m.
+Distancia a la izquierda: 50 Distancia a la derecha: 37 Distancia de enfrente: 3
+05:18:20 p. m.
+Distancia a la izquierda: 51 Distancia a la derecha: 39 Distancia de enfrente: 3
+Bitacora de movimientos
+05:18:28 p. m. martes, 26 de abril de 2022
+===================================== 
+
+05:18:33 p. m.
+Distancia a la izquierda: 0 Distancia a la derecha: 0 Distancia de enfrente: 0
+05:18:34 p. m.
+Distancia a la izquierda: 0 Distancia a la derecha: 0 Distancia de enfrente: 0
+05:18:35 p. m.
+Distancia a la izquierda: 50 Distancia a la derecha: 39 Distancia de enfrente: 3
+05:18:36 p. m.
+Distancia a la izquierda: 50 Distancia a la derecha: 39 Distancia de enfrente: 2
+05:18:37 p. m.
+Distancia a la izquierda: 50 Distancia a la derecha: 39 Distancia de enfrente: 2
+05:18:38 p. m.
+Distancia a la izquierda: 50 Distancia a la derecha: 38 Distancia de enfrente: 3
+05:18:39 p. m.
+Distancia a la izquierda: 51 Distancia a la derecha: 39 Distancia de enfrente: 3
+05:18:40 p. m.
+Distancia a la izquierda: 50 Distancia a la derecha: 39 Distancia de enfrente: 3
+05:18:41 p. m.
+Distancia a la izquierda: 51 Distancia a la derecha: 39 Distancia de enfrente: 3
+05:18:42 p. m.
+Distancia a la izquierda: 50 Distancia a la derecha: 39 Distancia de enfrente: 3
+05:18:43 p. m.
+Distancia a la izquierda: 50 Distancia a la derecha: 39 Distancia de enfrente: 3
+05:18:44 p. m.
+Distancia a la izquierda: 50 Distancia a la derecha: 39 Distancia de enfrente: 3
+05:18:45 p. m.
+Distancia a la izquierda: 50 Distancia a la derecha: 38 Distancia de enfrente: 3
+05:18:46 p. m.
+Distancia a la izquierda: 50 Distancia a la derecha: 39 Distancia de enfrente: 3
+05:18:47 p. m.
+Distancia a la izquierda: 51 Distancia a la derecha: 39 Distancia de enfrente: 3
+05:18:48 p. m.
+Distancia a la izquierda: 50 Distancia a la derecha: 39 Distancia de enfrente: 2
+05:18:49 p. m.
+Distancia a la izquierda: 51 Distancia a la derecha: 39 Distancia de enfrente: 3
+05:18:50 p. m.
+Distancia a la izquierda: 50 Distancia a la derecha: 39 Distancia de enfrente: 3
+05:18:51 p. m.
+Distancia a la izquierda: 50 Distancia a la derecha: 38 Distancia de enfrente: 3
+05:18:52 p. m.
+Distancia a la izquierda: 51 Distancia a la derecha: 39 Distancia de enfrente: 3
+05:18:53 p. m.
+Distancia a la izquierda: 50 Distancia a la derecha: 38 Distancia de enfrente: 3
+05:18:54 p. m.
+Distancia a la izquierda: 50 Distancia a la derecha: 39 Distancia de enfrente: 3
+05:18:55 p. m.
+Distancia a la izquierda: 50 Distancia a la derecha: 39 Distancia de enfrente: 3
+05:18:56 p. m.
+Distancia a la izquierda: 50 Distancia a la derecha: 38 Distancia de enfrente: 3
+05:18:57 p. m.
+Distancia a la izquierda: 51 Distancia a la derecha: 38 Distancia de enfrente: 3
+05:18:58 p. m.
+Distancia a la izquierda: 50 Distancia a la derecha: 38 Distancia de enfrente: 3
+05:18:59 p. m.
+Distancia a la izquierda: 51 Distancia a la derecha: 38 Distancia de enfrente: 3
+05:19:00 p. m.
+Distancia a la izquierda: 50 Distancia a la derecha: 39 Distancia de enfrente: 2
+05:19:01 p. m.
+Distancia a la izquierda: 50 Distancia a la derecha: 39 Distancia de enfrente: 2
+05:19:02 p. m.
+Distancia a la izquierda: 50 Distancia a la derecha: 39 Distancia de enfrente: 3
+05:19:03 p. m.
+Distancia a la izquierda: 50 Distancia a la derecha: 39 Distancia de enfrente: 3
+05:19:04 p. m.
+Distancia a la izquierda: 51 Distancia a la derecha: 39 Distancia de enfrente: 2
+05:19:05 p. m.
+Distancia a la izquierda: 50 Distancia a la derecha: 39 Distancia de enfrente: 3
+05:19:06 p. m.
+Distancia a la izquierda: 51 Distancia a la derecha: 38 Distancia de enfrente: 3
+05:19:07 p. m.
+Distancia a la izquierda: 51 Distancia a la derecha: 38 Distancia de enfrente: 3
+05:19:08 p. m.
+Distancia a la izquierda: 50 Distancia a la derecha: 38 Distancia de enfrente: 3
+05:19:09 p. m.
+Distancia a la izquierda: 50 Distancia a la derecha: 39 Distancia de enfrente: 3
+05:19:10 p. m.
+Distancia a la izquierda: 50 Distancia a la derecha: 38 Distancia de enfrente: 3
+05:19:11 p. m.
+Distancia a la izquierda: 50 Distancia a la derecha: 38 Distancia de enfrente: 3
+05:19:12 p. m.
+Distancia a la izquierda: 50 Distancia a la derecha: 39 Distancia de enfrente: 3
+05:19:13 p. m.
+Distancia a la izquierda: 50 Distancia a la derecha: 39 Distancia de enfrente: 2
+Bitacora de movimientos
+02:34:36 p. m. jueves, 28 de abril de 2022
+===================================== 
+
+Bitacora de movimientos
+02:35:17 p. m. jueves, 28 de abril de 2022
+===================================== 
+
+02:35:26 p. m.
+Distancia a la izquierda: 0 Distancia a la derecha: 0 Distancia de enfrente: 0
+02:35:27 p. m.
+Distancia a la izquierda: 0 Distancia a la derecha: 0 Distancia de enfrente: 0
+02:35:28 p. m.
+Distancia a la izquierda: 141 Distancia a la derecha: 69 Distancia de enfrente: 3
+02:35:29 p. m.
+Distancia a la izquierda: 141 Distancia a la derecha: 69 Distancia de enfrente: 3
+02:35:30 p. m.
+Distancia a la izquierda: 142 Distancia a la derecha: 71 Distancia de enfrente: 3
+02:35:31 p. m.
+Distancia a la izquierda: 141 Distancia a la derecha: 71 Distancia de enfrente: 3
+02:35:32 p. m.
+Distancia a la izquierda: 141 Distancia a la derecha: 71 Distancia de enfrente: 3
+02:35:33 p. m.
+Distancia a la izquierda: 142 Distancia a la derecha: 69 Distancia de enfrente: 3
+02:35:34 p. m.
+Distancia a la izquierda: 1193 Distancia a la derecha: 70 Distancia de enfrente: 3
+02:35:35 p. m.
+Distancia a la izquierda: 1193 Distancia a la derecha: 70 Distancia de enfrente: 3
+02:35:36 p. m.
+Distancia a la izquierda: 142 Distancia a la derecha: 69 Distancia de enfrente: 3
+02:35:37 p. m.
+Distancia a la izquierda: 143 Distancia a la derecha: 69 Distancia de enfrente: 3
+02:35:38 p. m.
+Distancia a la izquierda: 141 Distancia a la derecha: 70 Distancia de enfrente: 3
+02:35:39 p. m.
+Distancia a la izquierda: 141 Distancia a la derecha: 69 Distancia de enfrente: 3
+02:35:40 p. m.
+Distancia a la izquierda: 1193 Distancia a la derecha: 69 Distancia de enfrente: 3
+02:35:41 p. m.
+Distancia a la izquierda: 143 Distancia a la derecha: 69 Distancia de enfrente: 3
+02:35:42 p. m.
+Distancia a la izquierda: 141 Distancia a la derecha: 71 Distancia de enfrente: 3
+02:35:43 p. m.
+Distancia a la izquierda: 141 Distancia a la derecha: 69 Distancia de enfrente: 3
+02:35:44 p. m.
+Distancia a la izquierda: 1193 Distancia a la derecha: 71 Distancia de enfrente: 3
+Bitacora de movimientos
+02:36:29 p. m. jueves, 28 de abril de 2022
+===================================== 
+
+02:36:32 p. m.
+Distancia a la izquierda: 0 Distancia a la derecha: 0 Distancia de enfrente: 0
+02:36:33 p. m.
+Distancia a la izquierda: 0 Distancia a la derecha: 0 Distancia de enfrente: 0
+02:36:33 p. m.
+Distancia a la izquierda: 1192 Distancia a la derecha: 69 Distancia de enfrente: 3
+02:36:35 p. m.
+Distancia a la izquierda: 1193 Distancia a la derecha: 70 Distancia de enfrente: 3
+02:36:36 p. m.
+Distancia a la izquierda: 1193 Distancia a la derecha: 69 Distancia de enfrente: 3
+02:36:37 p. m.
+Distancia a la izquierda: 1193 Distancia a la derecha: 69 Distancia de enfrente: 3
+02:36:38 p. m.
+Distancia a la izquierda: 1193 Distancia a la derecha: 69 Distancia de enfrente: 3
+02:36:39 p. m.
+Distancia a la izquierda: 1193 Distancia a la derecha: 69 Distancia de enfrente: 3
+02:36:40 p. m.
+Distancia a la izquierda: 1193 Distancia a la derecha: 69 Distancia de enfrente: 3
+02:36:41 p. m.
+Distancia a la izquierda: 1193 Distancia a la derecha: 69 Distancia de enfrente: 3
+02:36:42 p. m.
+Distancia a la izquierda: 144 Distancia a la derecha: 69 Distancia de enfrente: 3
+02:36:43 p. m.
+Distancia a la izquierda: 143 Distancia a la derecha: 69 Distancia de enfrente: 3
+02:36:44 p. m.
+Distancia a la izquierda: 1193 Distancia a la derecha: 69 Distancia de enfrente: 3
+02:36:45 p. m.
+Distancia a la izquierda: 142 Distancia a la derecha: 69 Distancia de enfrente: 3
+02:36:46 p. m.
+Distancia a la izquierda: 1193 Distancia a la derecha: 70 Distancia de enfrente: 3
+02:36:47 p. m.
+Distancia a la izquierda: 142 Distancia a la derecha: 69 Distancia de enfrente: 3
+02:36:48 p. m.
+Distancia a la izquierda: 142 Distancia a la derecha: 69 Distancia de enfrente: 3
+02:36:49 p. m.
+Distancia a la izquierda: 1193 Distancia a la derecha: 69 Distancia de enfrente: 3
+02:36:50 p. m.
+Distancia a la izquierda: 142 Distancia a la derecha: 69 Distancia de enfrente: 3
+02:36:51 p. m.
+Distancia a la izquierda: 1193 Distancia a la derecha: 69 Distancia de enfrente: 3
+02:36:52 p. m.
+Distancia a la izquierda: 1193 Distancia a la derecha: 69 Distancia de enfrente: 3
+02:36:53 p. m.
+Distancia a la izquierda: 1193 Distancia a la derecha: 69 Distancia de enfrente: 3
+02:36:54 p. m.
+Distancia a la izquierda: 1193 Distancia a la derecha: 70 Distancia de enfrente: 3
+02:36:55 p. m.
+Distancia a la izquierda: 1193 Distancia a la derecha: 69 Distancia de enfrente: 3
+02:36:56 p. m.
+Distancia a la izquierda: 143 Distancia a la derecha: 69 Distancia de enfrente: 3
+02:36:57 p. m.
+Distancia a la izquierda: 1193 Distancia a la derecha: 69 Distancia de enfrente: 3
+02:36:58 p. m.
+Distancia a la izquierda: 142 Distancia a la derecha: 69 Distancia de enfrente: 3
+02:36:59 p. m.
+Distancia a la izquierda: 1193 Distancia a la derecha: 69 Distancia de enfrente: 3
+02:37:00 p. m.
+Distancia a la izquierda: 1193 Distancia a la derecha: 69 Distancia de enfrente: 3
+02:37:01 p. m.
+Distancia a la izquierda: 1193 Distancia a la derecha: 69 Distancia de enfrente: 3
+02:37:02 p. m.
+Distancia a la izquierda: 142 Distancia a la derecha: 69 Distancia de enfrente: 3
+02:37:03 p. m.
+Distancia a la izquierda: 144 Distancia a la derecha: 69 Distancia de enfrente: 3
+02:37:04 p. m.
+Distancia a la izquierda: 1193 Distancia a la derecha: 69 Distancia de enfrente: 3
+02:37:05 p. m.
+Distancia a la izquierda: 1193 Distancia a la derecha: 69 Distancia de enfrente: 3
+02:37:06 p. m.
+Distancia a la izquierda: 1193 Distancia a la derecha: 69 Distancia de enfrente: 3
+02:37:06 p. m.
+Distancia a la izquierda: 1193 Distancia a la derecha: 69 Distancia de enfrente: 3
+02:37:08 p. m.
+Distancia a la izquierda: 143 Distancia a la derecha: 69 Distancia de enfrente: 3
+Bitacora de movimientos
+04:58:38 p. m. jueves, 28 de abril de 2022
+===================================== 
+
+04:59:02 p. m.
+Distancia a la izquierda: 0 Distancia a la derecha: 0 Distancia de enfrente: 0
+04:59:03 p. m.
+Distancia a la izquierda: 0 Distancia a la derecha: 0 Distancia de enfrente: 0
+04:59:04 p. m.
+Distancia a la izquierda: 3 Distancia a la derecha: 28 Distancia de enfrente: 1180
+04:59:05 p. m.
+Distancia a la izquierda: 3 Distancia a la derecha: 28 Distancia de enfrente: 1180
+04:59:06 p. m.
+Distancia a la izquierda: 3 Distancia a la derecha: 28 Distancia de enfrente: 1180
+04:59:07 p. m.
+Distancia a la izquierda: 3 Distancia a la derecha: 28 Distancia de enfrente: 1180
+04:59:08 p. m.
+Distancia a la izquierda: 3 Distancia a la derecha: 28 Distancia de enfrente: 1180
+04:59:09 p. m.
+Distancia a la izquierda: 3 Distancia a la derecha: 27 Distancia de enfrente: 1180
+04:59:10 p. m.
+Distancia a la izquierda: 3 Distancia a la derecha: 27 Distancia de enfrente: 1180
+04:59:11 p. m.
+Distancia a la izquierda: 3 Distancia a la derecha: 28 Distancia de enfrente: 1180
+04:59:12 p. m.
+Distancia a la izquierda: 3 Distancia a la derecha: 28 Distancia de enfrente: 1180
+04:59:13 p. m.
+Distancia a la izquierda: 3 Distancia a la derecha: 28 Distancia de enfrente: 1180
+04:59:14 p. m.
+Distancia a la izquierda: 3 Distancia a la derecha: 28 Distancia de enfrente: 1180
+04:59:15 p. m.
+Distancia a la izquierda: 3 Distancia a la derecha: 27 Distancia de enfrente: 1180
+04:59:16 p. m.
+Distancia a la izquierda: 3 Distancia a la derecha: 28 Distancia de enfrente: 1180
+04:59:17 p. m.
+Distancia a la izquierda: 3 Distancia a la derecha: 28 Distancia de enfrente: 1180
+04:59:18 p. m.
+Distancia a la izquierda: 3 Distancia a la derecha: 28 Distancia de enfrente: 1180
+04:59:19 p. m.
+Distancia a la izquierda: 3 Distancia a la derecha: 28 Distancia de enfrente: 1180
+04:59:20 p. m.
+Distancia a la izquierda: 3 Distancia a la derecha: 28 Distancia de enfrente: 1180
+04:59:21 p. m.
+Distancia a la izquierda: 3 Distancia a la derecha: 28 Distancia de enfrente: 1180
+04:59:22 p. m.
+Distancia a la izquierda: 3 Distancia a la derecha: 27 Distancia de enfrente: 1180
+04:59:23 p. m.
+Distancia a la izquierda: 3 Distancia a la derecha: 27 Distancia de enfrente: 1180
+04:59:24 p. m.
+Distancia a la izquierda: 3 Distancia a la derecha: 27 Distancia de enfrente: 1180
+04:59:25 p. m.
+Distancia a la izquierda: 3 Distancia a la derecha: 28 Distancia de enfrente: 1180
+04:59:26 p. m.
+Distancia a la izquierda: 3 Distancia a la derecha: 28 Distancia de enfrente: 1180
+04:59:27 p. m.
+Distancia a la izquierda: 3 Distancia a la derecha: 28 Distancia de enfrente: 1180
+04:59:28 p. m.
+Distancia a la izquierda: 3 Distancia a la derecha: 28 Distancia de enfrente: 1180
+04:59:29 p. m.
+Distancia a la izquierda: 3 Distancia a la derecha: 28 Distancia de enfrente: 1180
+04:59:30 p. m.
+Distancia a la izquierda: 3 Distancia a la derecha: 28 Distancia de enfrente: 1180
+04:59:31 p. m.
+Distancia a la izquierda: 5 Distancia a la derecha: 28 Distancia de enfrente: 1180
+04:59:32 p. m.
+Distancia a la izquierda: 6 Distancia a la derecha: 28 Distancia de enfrente: 1180
+04:59:33 p. m.
+Distancia a la izquierda: 4 Distancia a la derecha: 28 Distancia de enfrente: 1180
+04:59:34 p. m.
+Distancia a la izquierda: 4 Distancia a la derecha: 28 Distancia de enfrente: 1180
+04:59:35 p. m.
+Distancia a la izquierda: 4 Distancia a la derecha: 28 Distancia de enfrente: 1180
+04:59:36 p. m.
+Distancia a la izquierda: 4 Distancia a la derecha: 28 Distancia de enfrente: 1180
+04:59:37 p. m.
+Distancia a la izquierda: 4 Distancia a la derecha: 28 Distancia de enfrente: 1180
+04:59:38 p. m.
+Distancia a la izquierda: 4 Distancia a la derecha: 27 Distancia de enfrente: 1180
+04:59:39 p. m.
+Distancia a la izquierda: 5 Distancia a la derecha: 28 Distancia de enfrente: 1180
+04:59:40 p. m.
+Distancia a la izquierda: 5 Distancia a la derecha: 27 Distancia de enfrente: 1180
+04:59:41 p. m.
+Distancia a la izquierda: 5 Distancia a la derecha: 28 Distancia de enfrente: 1180
+Bitacora de movimientos
+05:15:00 p. m. jueves, 28 de abril de 2022
+===================================== 
+
+Bitacora de movimientos
+07:21:20 p. m. jueves, 28 de abril de 2022
+===================================== 
+
