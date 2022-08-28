@@ -6,8 +6,6 @@ namespace Interfaz_Posturas.formularios
 {
     public partial class Serialform : Form
     {
-        public string puerto, baudios;
-
         public Serialform()
         {
             InitializeComponent();
@@ -26,8 +24,8 @@ namespace Interfaz_Posturas.formularios
 
         private void saveconfig_Click(object sender, EventArgs e)
         {
-            Form1.instance.box_port = portbox.Text;
-            Form1.instance.box_baud = baudratebox.Text;
+            MainMenu.instance.box_port = portbox.Text;
+            MainMenu.instance.box_baud = baudratebox.Text;
             this.Close();
         }
     }
