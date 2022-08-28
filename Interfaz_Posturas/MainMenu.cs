@@ -10,6 +10,8 @@ using System.Windows.Forms;
 using System.IO.Ports;
 using System.IO;
 using System.Drawing.Imaging;
+using AForge.Video;
+using AForge.Video.DirectShow;
 
 /// <sumary>
 /// The GUI realalizes the visualization of the
@@ -23,12 +25,15 @@ using System.Drawing.Imaging;
 
 namespace Interfaz_Posturas
 {
-    public partial class Form1 : Form
+    public partial class MainMenu : Form
     {
-        public static Form1 instance;
+        public static MainMenu instance;
 
         // Inicio de camara
-        //private string path = @"C:\Users\Victor\source\repos\GafaxD\Positional_postures\Interfaz_Posturas";
+        public string record_path;
+        private VideoCaptureDevice MyWebCam;
+        public string cameraSelection;
+        Bitmap picture;
 
         // Para la imagen
         // Sentenciamos para la imagen
@@ -60,7 +65,7 @@ namespace Interfaz_Posturas
         int tiempo_lim = 30; // Aqui se modifica el tiempo limite en segundos
         bool active = false;
 
-        public Form1()
+        public MainMenu()
         {
             InitializeComponent();
             instance = this;
@@ -72,9 +77,31 @@ namespace Interfaz_Posturas
             serialform.Show();
         }
 
+        private void MenuToolCameraSelect_Click(object sender, EventArgs e)
+        {
+            formularios.CameraSetting cameraSetting = new formularios.CameraSetting();
+            cameraSetting.Show();
+        }
+
+        public void CloseCamera()
+        {
+            if (MyWebCam!=null && MyWebCam.IsRunning)
+            {
+                MyWebCam.SignalToStop();
+                MyWebCam = null;
+            }
+        }
+
+        public void CaptureImg(object sender, NewFrameEventArgs eventArgs)
+        {
+            picture = (Bitmap)eventArgs.Frame.Clone();
+        }
+
         // Metodo utilizado cuando cerramos la aplicacion
         private void Form1_FormClosed(object sender, FormClosedEventArgs e)
         {
+            CloseCamera();
+
             if (serialPort1.IsOpen)
             {
                 serialPort1.Close();
@@ -88,12 +115,6 @@ namespace Interfaz_Posturas
         // Metodo utilizado cuando abrimos la aplicacion
         private void Form1_Load(object sender, EventArgs e)
         {
-            // Se buscan los seriales y se ponen en la lista de opciones
-            //string[] ports = SerialPort.GetPortNames();
-            //box_port.Items.AddRange(ports);
-            //box_port.Text = "COM3";
-            //box_baud.Text = "9600";
-
             // Se escribe en el txt
             //fileWriter.BaseStream.Seek(0, SeekOrigin.End);
             //fileWriter.WriteLine("Bitacora de movimientos");
@@ -111,6 +132,10 @@ namespace Interfaz_Posturas
             /// </summary>
             try 
             {
+                MyWebCam = new VideoCaptureDevice(cameraSelection);
+                MyWebCam.NewFrame += new NewFrameEventHandler(CaptureImg);
+                MyWebCam.Start();
+
                 // Abriendo serial
                 serialPort1.PortName = box_port;
                 serialPort1.BaudRate = Convert.ToInt32(box_baud);
@@ -122,11 +147,19 @@ namespace Interfaz_Posturas
             catch (Exception err)
             {
                 MessageBox.Show(err.Message,"ERROR", MessageBoxButtons.OK, MessageBoxIcon.Error);
+
+                CloseCamera();
+                serialPort1.Close();
+                active = false;
+                tiempo = 0;
+                timer1.Enabled = false;
             }
         }
 
         private void btn_serial_close_Click(object sender, EventArgs e)
         {
+            CloseCamera();
+            
             // Cerrar el puerto serie
             if (serialPort1.IsOpen)
             {
@@ -206,26 +239,23 @@ namespace Interfaz_Posturas
                 {
                     if (count_f > count_l && count_f > count_r)
                     {
-                        //lab_posture.Text = "Carga frontal";
                         semaforo.BackColor = System.Drawing.Color.Red;
                         MessageBox.Show("Carga frontal", "Alerta de postura", MessageBoxButtons.OK, MessageBoxIcon.Warning);
                     }
                     else if (count_r > count_f && count_r > count_l)
                     {
-                        //lab_posture.Text = "Carga derecha";
+                        picture.Save(record_path + "Imagen " + "1" + ".jpg", ImageFormat.Jpeg);
                         semaforo.BackColor = System.Drawing.Color.Red;
                         MessageBox.Show("Carga derecha", "Alerta de postura", MessageBoxButtons.OK, MessageBoxIcon.Warning);
                     }
                     else if (count_l > count_f && count_l > count_r)
                     {
-                        //lab_posture.Text = "Carga izquierda";
                         semaforo.BackColor = System.Drawing.Color.Red;
                         MessageBox.Show("Carga izquierda", "Alerta de postura", MessageBoxButtons.OK, MessageBoxIcon.Warning);
                     }
                 }
                 else
                 {
-                    //lab_posture.Text = "Buena postura";
                     semaforo.BackColor = System.Drawing.Color.LightGreen;
                 }
                 count_f = 0;

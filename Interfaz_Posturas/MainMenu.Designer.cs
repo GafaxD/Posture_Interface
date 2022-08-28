@@ -1,6 +1,6 @@
 ﻿namespace Interfaz_Posturas
 {
-    partial class Form1
+    partial class MainMenu
     {
         /// <summary>
         /// Variable del diseñador necesaria.
@@ -29,7 +29,7 @@
         private void InitializeComponent()
         {
             this.components = new System.ComponentModel.Container();
-            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(Form1));
+            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(MainMenu));
             this.Lab_Frente = new System.Windows.Forms.Label();
             this.Indc_Frente = new System.Windows.Forms.Label();
             this.Ind_Der = new System.Windows.Forms.Label();
@@ -50,8 +50,7 @@
             this.folderBrowserDialog1 = new System.Windows.Forms.FolderBrowserDialog();
             this.menuStrip1 = new System.Windows.Forms.MenuStrip();
             this.archivoToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
-            this.guardarToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
-            this.guardarComoToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.MenuToolCameraSelect = new System.Windows.Forms.ToolStripMenuItem();
             this.puertoCOMToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.configuracionToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.elegirConfiguracionToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
@@ -127,7 +126,7 @@
             // btn_serial_start
             // 
             this.btn_serial_start.Location = new System.Drawing.Point(13, 22);
-            this.btn_serial_start.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.btn_serial_start.Margin = new System.Windows.Forms.Padding(2);
             this.btn_serial_start.Name = "btn_serial_start";
             this.btn_serial_start.Size = new System.Drawing.Size(75, 19);
             this.btn_serial_start.TabIndex = 2;
@@ -138,7 +137,7 @@
             // btn_serial_close
             // 
             this.btn_serial_close.Location = new System.Drawing.Point(92, 22);
-            this.btn_serial_close.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.btn_serial_close.Margin = new System.Windows.Forms.Padding(2);
             this.btn_serial_close.Name = "btn_serial_close";
             this.btn_serial_close.Size = new System.Drawing.Size(71, 19);
             this.btn_serial_close.TabIndex = 3;
@@ -155,9 +154,9 @@
             this.group_distances.Controls.Add(this.Indc_Frente);
             this.group_distances.Controls.Add(this.Lab_Der);
             this.group_distances.Location = new System.Drawing.Point(82, 119);
-            this.group_distances.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.group_distances.Margin = new System.Windows.Forms.Padding(2);
             this.group_distances.Name = "group_distances";
-            this.group_distances.Padding = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.group_distances.Padding = new System.Windows.Forms.Padding(2);
             this.group_distances.Size = new System.Drawing.Size(254, 123);
             this.group_distances.TabIndex = 4;
             this.group_distances.TabStop = false;
@@ -169,9 +168,9 @@
             this.group_port_ser.Controls.Add(this.btn_serial_close);
             this.group_port_ser.ImeMode = System.Windows.Forms.ImeMode.NoControl;
             this.group_port_ser.Location = new System.Drawing.Point(114, 246);
-            this.group_port_ser.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.group_port_ser.Margin = new System.Windows.Forms.Padding(2);
             this.group_port_ser.Name = "group_port_ser";
-            this.group_port_ser.Padding = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.group_port_ser.Padding = new System.Windows.Forms.Padding(2);
             this.group_port_ser.Size = new System.Drawing.Size(177, 51);
             this.group_port_ser.TabIndex = 7;
             this.group_port_ser.TabStop = false;
@@ -185,9 +184,9 @@
             // 
             this.posture_group.Controls.Add(this.semaforo);
             this.posture_group.Location = new System.Drawing.Point(340, 329);
-            this.posture_group.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.posture_group.Margin = new System.Windows.Forms.Padding(2);
             this.posture_group.Name = "posture_group";
-            this.posture_group.Padding = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.posture_group.Padding = new System.Windows.Forms.Padding(2);
             this.posture_group.Size = new System.Drawing.Size(57, 56);
             this.posture_group.TabIndex = 8;
             this.posture_group.TabStop = false;
@@ -196,7 +195,7 @@
             // semaforo
             // 
             this.semaforo.Location = new System.Drawing.Point(12, 22);
-            this.semaforo.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.semaforo.Margin = new System.Windows.Forms.Padding(2);
             this.semaforo.Name = "semaforo";
             this.semaforo.Size = new System.Drawing.Size(34, 26);
             this.semaforo.TabIndex = 1;
@@ -211,7 +210,7 @@
             // 
             this.pictureBox1.BackColor = System.Drawing.SystemColors.ControlDark;
             this.pictureBox1.Location = new System.Drawing.Point(65, 314);
-            this.pictureBox1.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.pictureBox1.Margin = new System.Windows.Forms.Padding(2);
             this.pictureBox1.Name = "pictureBox1";
             this.pictureBox1.Size = new System.Drawing.Size(271, 81);
             this.pictureBox1.TabIndex = 9;
@@ -221,7 +220,7 @@
             // 
             this.icono_ing.Image = ((System.Drawing.Image)(resources.GetObject("icono_ing.Image")));
             this.icono_ing.Location = new System.Drawing.Point(21, 40);
-            this.icono_ing.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.icono_ing.Margin = new System.Windows.Forms.Padding(2);
             this.icono_ing.Name = "icono_ing";
             this.icono_ing.Size = new System.Drawing.Size(375, 75);
             this.icono_ing.SizeMode = System.Windows.Forms.PictureBoxSizeMode.AutoSize;
@@ -254,23 +253,17 @@
             // archivoToolStripMenuItem
             // 
             this.archivoToolStripMenuItem.DropDownItems.AddRange(new System.Windows.Forms.ToolStripItem[] {
-            this.guardarToolStripMenuItem,
-            this.guardarComoToolStripMenuItem});
+            this.MenuToolCameraSelect});
             this.archivoToolStripMenuItem.Name = "archivoToolStripMenuItem";
             this.archivoToolStripMenuItem.Size = new System.Drawing.Size(60, 20);
-            this.archivoToolStripMenuItem.Text = "Archivo";
+            this.archivoToolStripMenuItem.Text = "Camera";
             // 
-            // guardarToolStripMenuItem
+            // MenuToolCameraSelect
             // 
-            this.guardarToolStripMenuItem.Name = "guardarToolStripMenuItem";
-            this.guardarToolStripMenuItem.Size = new System.Drawing.Size(159, 22);
-            this.guardarToolStripMenuItem.Text = "Guardar";
-            // 
-            // guardarComoToolStripMenuItem
-            // 
-            this.guardarComoToolStripMenuItem.Name = "guardarComoToolStripMenuItem";
-            this.guardarComoToolStripMenuItem.Size = new System.Drawing.Size(159, 22);
-            this.guardarComoToolStripMenuItem.Text = "Guardar como...";
+            this.MenuToolCameraSelect.Name = "MenuToolCameraSelect";
+            this.MenuToolCameraSelect.Size = new System.Drawing.Size(192, 22);
+            this.MenuToolCameraSelect.Text = "Configurar Dispositivo";
+            this.MenuToolCameraSelect.Click += new System.EventHandler(this.MenuToolCameraSelect_Click);
             // 
             // puertoCOMToolStripMenuItem
             // 
@@ -294,7 +287,7 @@
             this.elegirConfiguracionToolStripMenuItem.Size = new System.Drawing.Size(185, 22);
             this.elegirConfiguracionToolStripMenuItem.Text = "Elegir configuracion";
             // 
-            // Form1
+            // MainMenu
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
@@ -307,8 +300,8 @@
             this.Controls.Add(this.group_distances);
             this.Controls.Add(this.menuStrip1);
             this.MainMenuStrip = this.menuStrip1;
-            this.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
-            this.Name = "Form1";
+            this.Margin = new System.Windows.Forms.Padding(2);
+            this.Name = "MainMenu";
             this.Text = "Medidor de posturas";
             this.FormClosed += new System.Windows.Forms.FormClosedEventHandler(this.Form1_FormClosed);
             this.Load += new System.EventHandler(this.Form1_Load);
@@ -348,8 +341,7 @@
         private System.Windows.Forms.FolderBrowserDialog folderBrowserDialog1;
         private System.Windows.Forms.MenuStrip menuStrip1;
         private System.Windows.Forms.ToolStripMenuItem archivoToolStripMenuItem;
-        private System.Windows.Forms.ToolStripMenuItem guardarToolStripMenuItem;
-        private System.Windows.Forms.ToolStripMenuItem guardarComoToolStripMenuItem;
+        private System.Windows.Forms.ToolStripMenuItem MenuToolCameraSelect;
         private System.Windows.Forms.ToolStripMenuItem puertoCOMToolStripMenuItem;
         private System.Windows.Forms.ToolStripMenuItem configuracionToolStripMenuItem;
         private System.Windows.Forms.ToolStripMenuItem elegirConfiguracionToolStripMenuItem;
