@@ -28,5 +28,21 @@ namespace Interfaz_Posturas.formularios
             MainMenu.instance.box_baud = baudratebox.Text;
             this.Close();
         }
+
+        private void Serialform_FormClosing(object sender, FormClosingEventArgs e)
+        {
+            if (portbox.Text == "" || baudratebox.Text == "")
+            {
+                if (MessageBox.Show("No ha accedido ningun puerto o baudrate ¿Desea realmente abandonar la aplicación?",
+                    "CIERRE APLICACIÓN", MessageBoxButtons.YesNo, MessageBoxIcon.Exclamation) == DialogResult.Yes)
+                {
+                    e.Cancel = false;
+                }
+                else
+                {
+                    e.Cancel = true;
+                }
+            }
+        }
     }
 }

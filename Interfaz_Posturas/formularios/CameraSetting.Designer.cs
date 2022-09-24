@@ -36,6 +36,8 @@
             this.groupBox2 = new System.Windows.Forms.GroupBox();
             this.TestPictureBox = new System.Windows.Forms.PictureBox();
             this.TestButton = new System.Windows.Forms.Button();
+            this.RouteTextBox = new System.Windows.Forms.TextBox();
+            this.SearchFileButton = new System.Windows.Forms.Button();
             this.groupBox1.SuspendLayout();
             this.groupBox2.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.TestPictureBox)).BeginInit();
@@ -60,6 +62,8 @@
             // 
             // groupBox1
             // 
+            this.groupBox1.Controls.Add(this.SearchFileButton);
+            this.groupBox1.Controls.Add(this.RouteTextBox);
             this.groupBox1.Controls.Add(this.DeviceBox);
             this.groupBox1.Controls.Add(this.SaveRoute);
             this.groupBox1.Controls.Add(this.DeviceLabel);
@@ -118,6 +122,23 @@
             this.TestButton.UseVisualStyleBackColor = true;
             this.TestButton.Click += new System.EventHandler(this.TestButton_Click);
             // 
+            // RouteTextBox
+            // 
+            this.RouteTextBox.Location = new System.Drawing.Point(82, 47);
+            this.RouteTextBox.Name = "RouteTextBox";
+            this.RouteTextBox.Size = new System.Drawing.Size(281, 20);
+            this.RouteTextBox.TabIndex = 2;
+            // 
+            // SearchFileButton
+            // 
+            this.SearchFileButton.Location = new System.Drawing.Point(369, 45);
+            this.SearchFileButton.Name = "SearchFileButton";
+            this.SearchFileButton.Size = new System.Drawing.Size(54, 23);
+            this.SearchFileButton.TabIndex = 3;
+            this.SearchFileButton.Text = "Buscar";
+            this.SearchFileButton.UseVisualStyleBackColor = true;
+            this.SearchFileButton.Click += new System.EventHandler(this.SearchFileButton_Click);
+            // 
             // CameraSetting
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
@@ -149,5 +170,7 @@
         private System.Windows.Forms.GroupBox groupBox2;
         private System.Windows.Forms.PictureBox TestPictureBox;
         private System.Windows.Forms.Button TestButton;
+        private System.Windows.Forms.Button SearchFileButton;
+        private System.Windows.Forms.TextBox RouteTextBox;
     }
 }
