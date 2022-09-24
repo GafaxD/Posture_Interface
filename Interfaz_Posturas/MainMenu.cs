@@ -41,32 +41,23 @@ namespace Interfaz_Posturas
         Pen lapiz_rojo = new Pen(Color.Red);
         Pen lapiz_negro = new Pen(Color.Black);
 
-        // Inicializacion de un txt en la ruta asignada en el string
-        //private static FileStream fs = new FileStream(
-        //    @"C:\Users\Victor\Documents\Victor\Proyectos\Records", 
-        //    FileMode.OpenOrCreate, FileAccess.Write);
-        //private static StreamWriter fileWriter = new StreamWriter(fs);
-
-        // Variable serial
-        //
-        formularios.Serialform serialform = new formularios.Serialform();
-
         string dataIN;
         public string box_port, box_baud;
 
         // Variable para lectura de todos los datos
-        string[] cadena_ser = {"0","0","0"};
+        private string[] cadena_ser = {"0","0","0"};
 
         /// <summary>
         /// Estas variables sirven para reconocer los sensores, ademas de
-        /// detectar si se pasa determinado tiempo en una posicion
+        /// detectar si se pasa determinado tiempo en una posicion son variables locales del namespace
         /// </summary>
-        uint s_r = 0, s_l = 0, s_f = 0, tiempo = 0, count_r = 0, count_l = 0, count_f = 0;
-        int tiempo_lim = 30; // Aqui se modifica el tiempo limite en segundos
-        bool active = false;
+        private uint s_r = 0, s_l = 0, s_f = 0, tiempo = 0, count_r = 0, count_l = 0, count_f = 0, count_files = 0;
+        private int tiempo_lim = 30; // Aqui se modifica el tiempo limite en segundos
+        private bool active = false;
 
         public MainMenu()
         {
+            // instance hace referencia al puntero de la propia clase MainForm esto permite su manipulacion de metodos por fuera de esta
             InitializeComponent();
             instance = this;
         }
@@ -239,17 +230,19 @@ namespace Interfaz_Posturas
                 {
                     if (count_f > count_l && count_f > count_r)
                     {
+                        picture.Save(@"\" + record_path + "Imagen " + count_files++.ToString() + ".jpg", ImageFormat.Jpeg);
                         semaforo.BackColor = System.Drawing.Color.Red;
                         MessageBox.Show("Carga frontal", "Alerta de postura", MessageBoxButtons.OK, MessageBoxIcon.Warning);
                     }
                     else if (count_r > count_f && count_r > count_l)
                     {
-                        picture.Save(record_path + "Imagen " + "1" + ".jpg", ImageFormat.Jpeg);
+                        picture.Save(@"\" + record_path + "Imagen " + count_files++.ToString() + ".jpg", ImageFormat.Jpeg);
                         semaforo.BackColor = System.Drawing.Color.Red;
                         MessageBox.Show("Carga derecha", "Alerta de postura", MessageBoxButtons.OK, MessageBoxIcon.Warning);
                     }
                     else if (count_l > count_f && count_l > count_r)
                     {
+                        picture.Save(@"\" + record_path + "Imagen " + count_files++.ToString() + ".jpg", ImageFormat.Jpeg);
                         semaforo.BackColor = System.Drawing.Color.Red;
                         MessageBox.Show("Carga izquierda", "Alerta de postura", MessageBoxButtons.OK, MessageBoxIcon.Warning);
                     }

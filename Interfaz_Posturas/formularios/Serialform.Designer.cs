@@ -111,6 +111,7 @@
             this.Controls.Add(this.groupBox1);
             this.Name = "Serialform";
             this.Text = "Configuracion serial";
+            this.FormClosing += new System.Windows.Forms.FormClosingEventHandler(this.Serialform_FormClosing);
             this.Load += new System.EventHandler(this.Serialform_Load);
             this.groupBox1.ResumeLayout(false);
             this.groupBox2.ResumeLayout(false);

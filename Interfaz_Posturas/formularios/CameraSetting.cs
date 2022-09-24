@@ -15,10 +15,8 @@ namespace Interfaz_Posturas.formularios
 {
     public partial class CameraSetting : Form
     {
+        string path = null;
         public static CameraSetting Current;
-
-        public string path = @"C:\Users\Victor\Documents\Victor\Proyectos\C#\Interfaz_Posturas\Records\";
-        //public string path = Directory.GetCurrentDirectory();
         public FilterInfoCollection MyDevices;
         private VideoCaptureDevice TestWebcam;
         public bool isDevice;
@@ -52,17 +50,20 @@ namespace Interfaz_Posturas.formularios
             }
         }
 
+        // send the image test
         private void CaptureTest(object sender, NewFrameEventArgs eventArgs)
         {
             Bitmap pictureTest = (Bitmap)eventArgs.Frame.Clone();
             TestPictureBox.Image = pictureTest;
         }
 
+        // load the aplication
         private void CameraSetting_Load(object sender, EventArgs e)
         {
             LoadDevices();
         }
 
+        // Select the camera device
         private void DeviceButton_Click(object sender, EventArgs e)
         {
             TestCloseCamera();
@@ -73,6 +74,7 @@ namespace Interfaz_Posturas.formularios
             this.Close();
         }
 
+        // test the camera settings
         private void TestButton_Click(object sender, EventArgs e)
         {
             TestCloseCamera();
@@ -83,8 +85,21 @@ namespace Interfaz_Posturas.formularios
             TestWebcam.Start();
         }
 
+        // Camera is closing
         private void CameraSetting_FormClosing(object sender, FormClosingEventArgs e)
         {
+            if (path == null)
+            {
+                if (MessageBox.Show("No ha accedido ninguna ruta de guardado, esto hara que no se guarden los datos de la prueba ¿Desea realmente abandonar la aplicación?",
+                    "CIERRE APLICACIÓN", MessageBoxButtons.YesNo, MessageBoxIcon.Exclamation) == DialogResult.Yes)
+                {
+                    e.Cancel = false;
+                }
+                else
+                {
+                    e.Cancel = true;
+                }
+            }
             TestCloseCamera();
             MainMenu.instance.CloseCamera();
             try
@@ -99,10 +114,22 @@ namespace Interfaz_Posturas.formularios
             }
         }
 
+        // Camera close
         private void CameraSetting_FormClosed(object sender, FormClosedEventArgs e)
         {
             TestCloseCamera();
             MainMenu.instance.CloseCamera();
+        }
+
+        // Record path for save file
+        private void SearchFileButton_Click(object sender, EventArgs e)
+        {
+            FolderBrowserDialog dialog = new FolderBrowserDialog();
+            if (dialog.ShowDialog() == DialogResult.OK)
+            {
+                path = dialog.SelectedPath;
+                RouteTextBox.Text = path;
+            }
         }
     }
 }
