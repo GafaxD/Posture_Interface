@@ -34,6 +34,7 @@ namespace Interfaz_Posturas
         private VideoCaptureDevice MyWebCam;
         public string cameraSelection;
         Bitmap picture;
+        TextWriter writer;
 
         // Para la imagen
         // Sentenciamos para la imagen
@@ -101,18 +102,12 @@ namespace Interfaz_Posturas
             {
                 timer1.Enabled = false;
             }
+            writer.Close();
         }
 
         // Metodo utilizado cuando abrimos la aplicacion
         private void Form1_Load(object sender, EventArgs e)
         {
-            // Se escribe en el txt
-            //fileWriter.BaseStream.Seek(0, SeekOrigin.End);
-            //fileWriter.WriteLine("Bitacora de movimientos");
-            //fileWriter.WriteLine("{0} {1}", DateTime.Now.ToLongTimeString(),DateTime.Now.ToLongDateString());
-            //fileWriter.WriteLine("===================================== \n");
-            //fileWriter.Flush();
-
             semaforo.BackColor = System.Drawing.Color.LightGreen;
         }
 
@@ -134,6 +129,9 @@ namespace Interfaz_Posturas
 
                 // Abriendo timer
                 timer1.Enabled = true;
+
+                //abriendo file
+                writer = new StreamWriter(record_path + @"\" + "Fail_Data.txt");
             }
             catch (Exception err)
             {
@@ -162,6 +160,7 @@ namespace Interfaz_Posturas
             {
                 timer1.Enabled = false;
             }
+            writer.Close();
         }
 
         private void timer1_Tick(object sender, EventArgs e)
@@ -171,11 +170,6 @@ namespace Interfaz_Posturas
             /// cuando pase cierto limite de tiempo asignado por la variable en el if
             /// este activara la nota de que se a pasado cierto tiempo fuera de un rango de movimiento
             /// </summary>
-            //fileWriter.WriteLine(DateTime.Now.ToLongTimeString());
-            //fileWriter.WriteLine(
-            //    "Distancia a la izquierda: {0} Distancia a la derecha: {1} Distancia de enfrente: {2}"
-            //    ,cadena_ser[0],cadena_ser[2],cadena_ser[1]);
-            //fileWriter.Flush();
 
             // Incrementos para reconocer posiciones en el tiempo
             if(s_l < 10)
@@ -230,21 +224,31 @@ namespace Interfaz_Posturas
                 {
                     if (count_f > count_l && count_f > count_r)
                     {
-                        picture.Save(@"\" + record_path + "Imagen " + count_files++.ToString() + ".jpg", ImageFormat.Jpeg);
+                        picture.Save(record_path + @"\" + "Imagen " + count_files++.ToString() + ".jpeg", ImageFormat.Jpeg);
                         semaforo.BackColor = System.Drawing.Color.Red;
                         MessageBox.Show("Carga frontal", "Alerta de postura", MessageBoxButtons.OK, MessageBoxIcon.Warning);
+                        writer.WriteLine("Posicion Izquierda:  " + s_l + "   Posicion derecha:  " + s_r + "    Posicion frontal:  " + s_f);
                     }
                     else if (count_r > count_f && count_r > count_l)
                     {
-                        picture.Save(@"\" + record_path + "Imagen " + count_files++.ToString() + ".jpg", ImageFormat.Jpeg);
+                        picture.Save(record_path + @"\" + "Imagen " + count_files++.ToString() + ".jpeg", ImageFormat.Jpeg);
                         semaforo.BackColor = System.Drawing.Color.Red;
                         MessageBox.Show("Carga derecha", "Alerta de postura", MessageBoxButtons.OK, MessageBoxIcon.Warning);
+                        writer.WriteLine("Posicion Izquierda:  " + s_l + "   Posicion derecha:  " + s_r + "    Posicion frontal:  " + s_f);
                     }
                     else if (count_l > count_f && count_l > count_r)
                     {
-                        picture.Save(@"\" + record_path + "Imagen " + count_files++.ToString() + ".jpg", ImageFormat.Jpeg);
+                        picture.Save(record_path + @"\" + "Imagen " + count_files++.ToString() + ".jpeg", ImageFormat.Jpeg);
                         semaforo.BackColor = System.Drawing.Color.Red;
                         MessageBox.Show("Carga izquierda", "Alerta de postura", MessageBoxButtons.OK, MessageBoxIcon.Warning);
+                        writer.WriteLine("Posicion Izquierda:  " + s_l + "   Posicion derecha:  " + s_r + "    Posicion frontal:  " + s_f);
+                    }
+                    else
+                    {
+                        picture.Save(record_path + @"\" + "Imagen " + count_files++.ToString() + ".jpeg", ImageFormat.Jpeg);
+                        semaforo.BackColor = System.Drawing.Color.Red;
+                        MessageBox.Show("Mala postura en dos direcciones", "Alerta de postura", MessageBoxButtons.OK, MessageBoxIcon.Warning);
+                        writer.WriteLine("Posicion Izquierda:  " + s_l + "   Posicion derecha:  " + s_r + "    Posicion frontal:  " + s_f);
                     }
                 }
                 else
