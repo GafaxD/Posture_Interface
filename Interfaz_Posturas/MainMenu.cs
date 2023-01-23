@@ -1,11 +1,5 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.ComponentModel;
-using System.Data;
 using System.Drawing;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 using System.Windows.Forms;
 using System.IO.Ports;
 using System.IO;
@@ -33,8 +27,10 @@ namespace Interfaz_Posturas
         public string record_path;
         private VideoCaptureDevice MyWebCam;
         public string cameraSelection;
+        public bool postureStatus = true;
         Bitmap picture;
         TextWriter writer;
+        formularios.PDFViewer viewer = new formularios.PDFViewer();
 
         // Para la imagen
         // Sentenciamos para la imagen
@@ -55,6 +51,9 @@ namespace Interfaz_Posturas
         private uint s_r = 0, s_l = 0, s_f = 0, tiempo = 0, count_r = 0, count_l = 0, count_f = 0, count_files = 0;
         private int tiempo_lim = 30; // Aqui se modifica el tiempo limite en segundos
         private bool active = false;
+
+        public uint tiempo_min = 0u;
+        public uint tiempo_seg = 0u;
 
         public MainMenu()
         {
@@ -81,6 +80,18 @@ namespace Interfaz_Posturas
             {
                 MyWebCam.SignalToStop();
                 MyWebCam = null;
+            }
+        }
+
+        private void pDFToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            try
+            {
+                viewer.Show();
+            }
+            catch(System.ObjectDisposedException)
+            {
+                MessageBox.Show("Inserte el archivo PDF en la ruta e instale Adobe PDF Reader", "Error al abrir PDF", MessageBoxButtons.OK, MessageBoxIcon.Warning);
             }
         }
 
@@ -217,6 +228,12 @@ namespace Interfaz_Posturas
             // Incrementamos tiempo
             tiempo++;
 
+            if (tiempo >= 10 && !postureStatus)
+            {
+                semaforo.BackColor = System.Drawing.Color.LightGreen;
+                postureStatus = true;
+            }
+
             // Condiciones para posiciones
             if (tiempo == tiempo_lim)
             {
@@ -250,6 +267,7 @@ namespace Interfaz_Posturas
                         MessageBox.Show("Mala postura en dos direcciones", "Alerta de postura", MessageBoxButtons.OK, MessageBoxIcon.Warning);
                         writer.WriteLine("Posicion Izquierda:  " + s_l + "   Posicion derecha:  " + s_r + "    Posicion frontal:  " + s_f);
                     }
+                    postureStatus= false;
                 }
                 else
                 {
@@ -263,6 +281,24 @@ namespace Interfaz_Posturas
             if (tiempo == 2)
             {
                 active = true;
+            }
+            tiempo_seg++; // incrementador de segundos
+            if (tiempo_seg == 60u){ // contador de segundos
+                tiempo_min++;
+                if (tiempo_min == 25u) // tiempo limite minutos
+                {
+                    try
+                    {
+                        formularios.PDFViewer viewer2 = new formularios.PDFViewer();
+                        viewer2.Show();
+                    }
+                    catch (Exception err)
+                    {
+                        MessageBox.Show("Error al abrir el la ventana PDF reader" , "Error: "+ err.GetType(), MessageBoxButtons.OK, MessageBoxIcon.Warning);
+                    }
+                    tiempo_min = 0u;
+                }
+                tiempo_seg = 0u;
             }
         }
 

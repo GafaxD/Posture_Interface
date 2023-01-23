@@ -54,6 +54,7 @@
             this.puertoCOMToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.configuracionToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.elegirConfiguracionToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.pDFToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.group_distances.SuspendLayout();
             this.group_port_ser.SuspendLayout();
             this.posture_group.SuspendLayout();
@@ -242,7 +243,8 @@
             this.menuStrip1.ImageScalingSize = new System.Drawing.Size(20, 20);
             this.menuStrip1.Items.AddRange(new System.Windows.Forms.ToolStripItem[] {
             this.archivoToolStripMenuItem,
-            this.puertoCOMToolStripMenuItem});
+            this.puertoCOMToolStripMenuItem,
+            this.pDFToolStripMenuItem});
             this.menuStrip1.Location = new System.Drawing.Point(0, 0);
             this.menuStrip1.Name = "menuStrip1";
             this.menuStrip1.Padding = new System.Windows.Forms.Padding(4, 2, 0, 2);
@@ -286,6 +288,13 @@
             this.elegirConfiguracionToolStripMenuItem.Name = "elegirConfiguracionToolStripMenuItem";
             this.elegirConfiguracionToolStripMenuItem.Size = new System.Drawing.Size(185, 22);
             this.elegirConfiguracionToolStripMenuItem.Text = "Elegir configuracion";
+            // 
+            // pDFToolStripMenuItem
+            // 
+            this.pDFToolStripMenuItem.Name = "pDFToolStripMenuItem";
+            this.pDFToolStripMenuItem.Size = new System.Drawing.Size(127, 20);
+            this.pDFToolStripMenuItem.Text = "Manual de Ejercicios";
+            this.pDFToolStripMenuItem.Click += new System.EventHandler(this.pDFToolStripMenuItem_Click);
             // 
             // MainMenu
             // 
@@ -345,6 +354,7 @@
         private System.Windows.Forms.ToolStripMenuItem puertoCOMToolStripMenuItem;
         private System.Windows.Forms.ToolStripMenuItem configuracionToolStripMenuItem;
         private System.Windows.Forms.ToolStripMenuItem elegirConfiguracionToolStripMenuItem;
+        private System.Windows.Forms.ToolStripMenuItem pDFToolStripMenuItem;
     }
 }
 
